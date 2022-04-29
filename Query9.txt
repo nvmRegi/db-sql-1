@@ -1,0 +1,53 @@
+SELEZIONO TUTTI GLI INSEGNANTI CHE HANNO UN NUMERO DI TELEFONO
+--SELECT * FROM teachers WHERE phone IS NOT NULL;
+
+1	Artemide	Rizzi	+87 81 28355927	jarno26@bianchi.it	Contrada Penelope 73	161
+4	Prisca	Caputo	+33 37 87454077	lazzaro12@hotmail.com	Via Mariano 48	2
+7	Noemi	Ferraro	348 610 711	amarini@gmail.com	Contrada Amato 58 Piano 2	185
+8	Ione	Costantini	+59 87 0628195	bgentile@greco.com	Strada Vitali 8 Piano 0	64
+10	Maria	Esposito	+30 91 02098027	caruso.davide@yahoo.it	Strada Vitali 8 Piano 0	128
+11	Vinicio	Sanna	+61 8773 1539263	nico61@yahoo.com	Piazza Ferretti 619	124
+13	Tosca	Donati	+97 9502 52491933	marco26@yahoo.it	Rotonda Martinelli 309	119
+14	Pericle	Rossetti	343 467 240	diana94@hotmail.com	Borgo Demis 1	11
+15	Valdo	Carbone	+72 938 6591087	gianriccardo23@hotmail.com	Via Eusebio 167 Appartamento 28	106
+16	Miriana	Morelli	+20 997 51 54 1939	morgana.moretti@rinaldi.net	Contrada Rita 5 Appartamento 71	1
+17	Rosaria	Neri	344 690 022	rosalba.rizzo@grassi.it	Piazza Demian 856 Appartamento 63	171
+22	Anselmo	Martino	+99 90 5086288	mgiuliani@testa.it	Borgo Elio 234 Piano 4	118
+23	Tazio	Sartori	+59 31 8721952	hguerra@yahoo.it	Rotonda Carmela 10 Piano 1	136
+24	Celeste	Costa	+07 893 0681259	naomi57@libero.it	Via Giacinto 11 Piano 8	74
+25	Concetta	Bianchi	+58 211 72300216	giobbe99@libero.it	Strada Kociss 997 Piano 8	124
+26	Carmelo	Benedetti	+39 010 391 127	rossetti.erminia@yahoo.it	Rotonda Martinelli 309	77
+30	Cosetta	Palmieri	+39 382 251 589	dindo57@palmieri.it	Via Eusebio 167 Appartamento 28	60
+31	Fortunata	Giordano	047 385 7776	sferraro@esposito.org	Strada Concetta 6	33
+32	Maika	Barbieri	+39 029 178 871	zricci@parisi.org	Via Eusebio 167 Appartamento 28	60
+36	Erminio	Montanari	+02 227 1734650	enegri@gmail.com	Via Maika 491	97
+37	Giordano	Giuliani	+96 336 2764612	enrica.dangelo@costantini.com	Via Eusebio 167 Appartamento 28	83
+41	Luce	Donati	+87 2645 09216603	testa.odino@costa.it	Borgo Elga 89	111
+45	Eusebio	Pellegrini	+16 76 8795400	prisca.giuliani@santoro.com	Borgo Elio 234 Piano 4	106
+50	Sarita	Donati	+21 443 59 54 4170	aparisi@galli.com	Borgo Ippolito 5 Piano 5	178
+54	Piererminio	Sanna	+39 376 562 381	mbattaglia@marchetti.it	Rotonda Teseo 9	59
+55	Hector	Pellegrini	+39 061 104 573	tneri@neri.com	Via Mariano 48	11
+58	Pietro	Rizzo	+21 6710 0964205	sanna.michele@negri.it	Contrada Santoro 17 Appartamento 30	125
+59	Carlo	Monti	+56 73 28324975	dpalumbo@rizzi.it	Rotonda Teseo 9	17
+61	Cosetta	Costantini	+02 4239 6196733	valentini.giovanna@yahoo.com	Rotonda Martinelli 309	164
+62	Ingrid	Mancini	+13 048 26084137	msorrentino@milani.it	Piazza Demian 856 Appartamento 63	159
+63	Kayla	Carbone	+29 184 8203426	dante89@yahoo.it	Strada Kociss 997 Piano 8	43
+64	Loretta	Amato	+26 383 40 14 3011	lucia.lombardo@yahoo.it	Incrocio Marini 9	164
+67	Ivonne	Neri	+61 72 18587184	sorrentino.violante@hotmail.com	Via Elga 7 Piano 4	138
+68	Cleopatra	Rinaldi	394 643 755	uvitale@silvestri.it	Rotonda Carmela 10 Piano 1	104
+69	Evita	Morelli	+39 310 272 545	grazia66@hotmail.com	Piazza Ferretti 619	106
+70	Diamante	Ferri	+39 089 931 950	cassiopea.sartori@gmail.com	Via Eusebio 167 Appartamento 28	41
+73	Elda	Bruno	+62 35 8488435	diamante.monti@battaglia.it	Piazza Ferretti 619	101
+75	Soriana	Pellegrino	+80 4162 3863495	albino.orlando@longo.com	Strada Lombardi 855	16
+77	Cesidia	Barbieri	+66 299 95 47 1886	lazzaro44@martinelli.com	Via Maika 491	23
+79	Benedetta	Vitale	+39 377 152 789	bianco.ursula@ferraro.com	Strada Kociss 997 Piano 8	192
+85	Celeste	Barone	367 832 613	martino.rosalba@serra.com	Contrada Penelope 73	83
+87	Gianantonio	Monti	+39 076 918 693	mariagiulia.riva@gmail.com	Contrada Amato 58 Piano 2	112
+88	Piersilvio	Rinaldi	+19 787 5568494	igreco@sanna.net	Incrocio Testa 142 Piano 7	88
+91	Tosca	Riva	+39 1678 0383934	nunzia22@gmail.com	Contrada Amato 58 Piano 2	185
+92	Mariagiulia	Guerra	+39 314 686 094	leone07@desantis.net	Rotonda Carmela 10 Piano 1	33
+94	Enrica	Gallo	+34 309 0286705	silvestri.furio@gmail.com	Borgo Elga 89	123
+95	Fatima	Costantini	+39 326 480 916	costa.pablo@libero.it	Piazza Pellegrino 613 Piano 8	194
+96	Genziana	Coppola	+50 61 2297227	tosca.desantis@hotmail.com	Via Mariano 48	7
+99	Egisto	Longo	+39 352 742 790	sartori.joey@russo.it	Borgo Elga 89	12
+100	Fatima	Ricci	+39 377 183 033	monia.donati@yahoo.com	Strada Neri 577	8

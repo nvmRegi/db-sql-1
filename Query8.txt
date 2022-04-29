@@ -1,0 +1,679 @@
+SELEZIONO TUTTI I CORSI CHE NON HANNO UN SITO WEB
+--SELECT * FROM courses WHERE website IS NULL;
+
+2	1	et doloremque omnis	Itaque quos aut repellat et amet et. Ipsum itaque laboriosam est earum unde id ea facilis. Eos placeat adipisci ipsam et. Ut ipsa ducimus sit sed ut provident facilis.	I semestre	1	4	NULL
+11	1	beatae eveniet fugiat	Reprehenderit aut voluptatem aliquam et consequatur. Perferendis est aut earum ut quis a. Repellendus dolor qui est. Aut a quae mollitia.	II semestre	2	13	NULL
+12	1	iure qui voluptas	Cupiditate suscipit ab vel placeat ratione sit aut. Sed et nobis sint rerum quibusdam est sunt.	I semestre	3	11	NULL
+14	1	nam omnis perspiciatis	Ullam ab repellat qui quis possimus ratione sint. Quisquam eveniet sint temporibus est voluptates repellendus. Iste totam veritatis quod consequatur et.	I semestre	3	3	NULL
+15	1	qui laboriosam non	Omnis libero dolores numquam maxime. Odit perferendis illo quaerat sint totam. Distinctio est perspiciatis ut qui autem ut. Enim recusandae vel et eum voluptas asperiores eveniet.	I semestre	3	3	NULL
+16	1	corporis enim doloremque	Sed doloribus quas accusantium aut perferendis. Fugit molestias a quia quia. Quos non expedita hic dignissimos animi.	II semestre	3	11	NULL
+18	1	velit aut voluptatum	Odit impedit veniam enim natus dolorum laboriosam. Repellendus eaque voluptas blanditiis consequatur vitae. Quis aut quisquam et consequatur consectetur esse.	II semestre	3	12	NULL
+19	1	repellat itaque nam	Nostrum debitis eius voluptate id ad nobis. Qui delectus amet deserunt nisi. Cum dolores nam magnam et suscipit ducimus voluptate qui.	II semestre	3	7	NULL
+24	2	unde quae delectus	Perferendis enim eos occaecati ad sed velit. Accusamus et suscipit itaque voluptates nam error. Blanditiis suscipit nulla sed.	II semestre	1	7	NULL
+25	2	vero est explicabo	Perspiciatis autem consequatur officiis neque dolor quis dolorum reprehenderit. Sunt corporis provident debitis quaerat. Voluptatem quaerat fugit sit autem vero.	II semestre	1	12	NULL
+27	2	consectetur aut odio	Totam voluptatem nihil nostrum commodi dolor dolorum. Pariatur impedit similique animi ut quo rerum. Suscipit fugit deleniti dolor voluptatem.	II semestre	1	12	NULL
+30	2	aliquam aliquam et	Doloremque illum et nulla nisi ab officia dolorem ab. Quasi quam id ea aspernatur modi molestias officia aperiam. Velit sint dolorum et adipisci.	I semestre	2	15	NULL
+31	2	atque assumenda explicabo	Ab assumenda illo odio. Molestiae neque eum quaerat odit voluptatibus. Voluptatem reiciendis quo ea asperiores quas molestias officiis. Tempore officia dolorem hic et repellat est.	I semestre	2	13	NULL
+32	2	sed quis ad	Voluptatem tempore praesentium sed nobis consectetur. Quia fugit et tenetur ipsam. Et neque maxime ut et. Assumenda quidem voluptas aut ullam voluptates.	I semestre	2	7	NULL
+33	2	rerum quod quibusdam	Delectus consequatur qui similique magnam et modi. Suscipit atque expedita quia qui. Est quia nesciunt et sunt minima.	II semestre	2	14	NULL
+34	2	enim sapiente fuga	Dolor quaerat adipisci ut et magni rem fugiat sequi. Non voluptates cum suscipit perferendis consequuntur. Voluptas natus eos et quis odio. Sunt eum blanditiis ad qui culpa sint eius ut.	II semestre	2	3	NULL
+35	2	aut consequatur sit	Eveniet voluptatem et voluptas. Dolore id doloribus ut aliquam exercitationem molestiae. Nisi perferendis rerum et dolorem libero est non aspernatur. Dicta provident et dignissimos explicabo facilis.	II semestre	2	3	NULL
+37	2	expedita praesentium alias	Consequuntur quasi ea tempora sint sunt beatae cumque rem. Error sed repellat modi enim. Quod autem nobis doloribus doloribus eos sint. Et omnis molestiae vero amet molestiae inventore.	I semestre	3	12	NULL
+42	2	quo expedita et	Voluptatem laboriosam quasi dolores quia officiis. Aut aliquid ipsum eligendi ut qui. Ab delectus deserunt iure et. Quas quisquam et fugit quia rerum quia neque velit.	II semestre	3	4	NULL
+43	2	voluptatum incidunt ut	Deserunt voluptas nemo hic sequi. Temporibus vel officiis magni. Nostrum mollitia eum molestias.	II semestre	3	14	NULL
+49	3	odio odit id	Omnis excepturi ipsa modi earum aut necessitatibus. Blanditiis fugiat porro eum. Exercitationem eaque mollitia error magni ut omnis quidem. Quis et voluptas voluptas nobis temporibus placeat est ut.	I semestre	1	15	NULL
+50	3	necessitatibus tenetur vel	Eos eum placeat facere voluptas qui quia. Aut et quo nulla quo. Facilis magnam velit explicabo dolor fuga.	II semestre	1	3	NULL
+51	3	sed sint aut	Iusto laboriosam non sed sunt voluptatum fugiat ut. Animi provident sed corrupti iure. Dolorem perspiciatis id voluptas totam eum ut.	II semestre	1	3	NULL
+52	3	voluptatem eveniet aut	Veniam ut dolorem cumque sint. Maxime ratione et cum. Ut magnam voluptate exercitationem excepturi repellat pariatur.	II semestre	1	10	NULL
+54	3	voluptatem vel beatae	Consequatur saepe quae unde perferendis mollitia in minus. Vitae odit provident nihil tempore id est. Ut expedita iusto error explicabo.	I semestre	2	9	NULL
+56	3	inventore maiores cumque	Aut quasi non alias alias consequuntur quibusdam velit. Illo sit ad libero molestiae nostrum et. Nihil rerum nam vel quam. Consequatur est est praesentium ad.	I semestre	2	4	NULL
+57	3	veniam dolorum dolor	Id quo est est. Recusandae ipsam iure libero esse. Ut minima minima officiis ad velit commodi nihil quia.	II semestre	2	11	NULL
+60	3	corrupti est nobis	Quidem enim est optio quidem ut eius. Omnis eveniet sint quo minima laudantium. In ratione itaque quos dolorum occaecati. Dicta sint iusto tempore culpa et in.	I semestre	3	8	NULL
+61	3	rerum inventore nihil	Aut molestiae ipsum rerum et. Incidunt et officia eligendi saepe cupiditate voluptatem ea magnam. Quod dolores cumque praesentium corrupti.	I semestre	3	9	NULL
+62	3	cupiditate deleniti nihil	Dolorum aliquid sit natus id. Enim rerum et nihil sint. Voluptatibus possimus illo quia fuga voluptatibus aliquid quis tenetur.	I semestre	3	12	NULL
+67	4	corporis incidunt ex	Esse at asperiores provident consectetur quos. Ea voluptatem porro dignissimos. A iure quis libero explicabo alias architecto.	I semestre	1	9	NULL
+70	4	est exercitationem sit	Natus vel voluptates animi qui eos. Reprehenderit repellat nobis rerum facilis. Molestiae quis sed sit vero perferendis impedit voluptas impedit. Est architecto molestiae incidunt.	II semestre	1	10	NULL
+71	4	tempore molestiae et	Rerum nihil aspernatur quidem autem autem. Fugit ducimus vitae dicta culpa atque deserunt voluptatum. A cupiditate qui et non est. Et sed dicta qui quae molestiae.	I semestre	2	14	NULL
+73	4	molestiae consectetur vero	Veniam veniam quis consequatur laudantium placeat sit a. Debitis quod quidem delectus tenetur voluptatem harum reprehenderit exercitationem. Incidunt et veritatis corporis harum.	I semestre	2	3	NULL
+75	4	dignissimos esse rerum	Autem voluptate aliquid sed nostrum similique. Qui magnam quibusdam earum et sit reprehenderit. Repellat sed fuga placeat sit.	I semestre	2	4	NULL
+77	4	dolorem laudantium minima	Omnis quidem vero tempora. Illo voluptas eligendi sunt fugiat. Eos eum adipisci alias aliquam. Numquam sit assumenda deserunt ex.	II semestre	2	11	NULL
+78	4	voluptas ut sit	Quia ut veritatis ut eaque odit autem molestias. Consequatur et laudantium velit non repudiandae. Quo velit minima vitae nesciunt iusto.	II semestre	2	6	NULL
+80	4	quia aut aut	Voluptas dignissimos cupiditate id voluptatem. Et sequi dolorem facere quam ullam quia. Temporibus ea architecto ab quod illum sequi libero.	I semestre	3	11	NULL
+83	4	ratione iure sit	Dignissimos non minus et sit quod. Illo ipsa id illum dolorum. Ut aut qui aliquid accusamus.	II semestre	3	10	NULL
+85	5	et harum nulla	Sed dignissimos vel id delectus eveniet qui fugiat. Deserunt repudiandae iure iure odio. Quis error aspernatur dolorem quo.	I semestre	1	5	NULL
+86	5	debitis vel pariatur	Esse non et rem quis laborum qui vel autem. Aliquid accusantium ratione voluptas. Doloremque quo optio sint est. Non similique sunt et fuga non numquam assumenda. Qui eius autem quis.	I semestre	1	5	NULL
+87	5	id id qui	Laboriosam impedit odit voluptatum nisi esse aut. Ipsum repellat impedit eius exercitationem omnis. In sapiente commodi rem sit sed. Officia unde consequuntur qui nam.	I semestre	1	15	NULL
+89	5	ipsam atque animi	In deserunt voluptatem a voluptate omnis rerum maiores. Eum voluptas voluptas repellat labore quaerat. Omnis id sed et vel deleniti.	I semestre	1	5	NULL
+91	5	quam provident perspiciatis	Et autem id porro quod. Corporis libero accusamus aut quis deserunt. Et ipsam voluptatem possimus rem exercitationem et. Qui molestiae sunt voluptates ab molestiae et.	II semestre	1	3	NULL
+92	5	officiis sit sed	Sapiente reprehenderit quis voluptates quasi modi. Quaerat illo ea fuga. Eveniet magni ad ratione sed aut numquam eaque. Unde tempore inventore voluptatem expedita nihil dolor.	II semestre	1	14	NULL
+93	5	magni ea tempora	Id earum facere ut dolorem doloribus. Pariatur modi voluptatem distinctio accusantium quo veritatis est. Non ut sint eaque. Dolorem deleniti fugit quis voluptatum et molestias iste asperiores.	II semestre	1	15	NULL
+94	5	iusto consequatur ut	Rerum enim impedit nam et non quis saepe sapiente. Molestiae vel alias nesciunt rerum. Explicabo eius ullam aut. Blanditiis quia doloremque exercitationem voluptatem quibusdam ut.	I semestre	2	13	NULL
+95	5	facilis vero voluptatem	Quas doloribus explicabo repellat nulla unde. Non necessitatibus vitae enim doloremque voluptatem voluptatem. Ipsam excepturi reprehenderit veniam expedita. Ea ut illo odit.	I semestre	2	12	NULL
+96	5	ipsam amet recusandae	Ullam reiciendis aut aspernatur provident vitae quae mollitia. Sed ea quas atque sed. Doloremque dolor aut voluptates ad.	I semestre	2	12	NULL
+97	5	quia doloribus nulla	Reiciendis sint autem numquam quo sunt. In nesciunt impedit voluptatem nam ea tenetur blanditiis. Illo inventore voluptates velit sit aut beatae ut. Fugit voluptatum esse repellat explicabo rerum.	II semestre	2	6	NULL
+98	5	sunt omnis asperiores	Ut dicta expedita quasi maiores. Dolores qui quam eos explicabo. Voluptas tempora architecto sint at. Blanditiis pariatur dolorum totam eius in.	II semestre	2	12	NULL
+99	6	corporis consequatur labore	Sed modi ad qui consequatur nihil numquam. Laborum eos aut perferendis consectetur veritatis voluptatum. Harum est nesciunt natus placeat quia deserunt. Earum eum ipsam placeat dolor unde est error.	I semestre	1	9	NULL
+100	6	minima iste veniam	Architecto voluptatem sed et nobis eum. Minus aut assumenda accusantium autem officiis.	I semestre	1	5	NULL
+101	6	quis quasi eos	Autem eaque voluptatibus magnam in et. Eos est autem ut repellat in omnis. Id fugit alias expedita qui vel qui.	I semestre	1	13	NULL
+102	6	qui non sit	Est neque id odit illum et et doloribus ab. Quas porro in qui est. Ea porro modi magni tempore illo.	II semestre	1	3	NULL
+103	6	rem non eum	Voluptate qui consequuntur sapiente quia. Et voluptatem ut amet minima. Ducimus totam cumque maxime vero.	II semestre	1	4	NULL
+105	6	et totam eius	Et aut cupiditate molestiae consequatur dolor perferendis voluptatem. Neque quibusdam molestias deleniti magnam ipsum id.	I semestre	2	11	NULL
+115	7	est voluptas reiciendis	Quo mollitia voluptates ratione saepe eaque aliquid quis. Qui nostrum ducimus eius ut aut et esse. At nihil consequatur sed vel explicabo. Ratione corporis labore qui architecto ea odio.	II semestre	1	5	NULL
+116	7	quia voluptatibus ut	Dignissimos delectus eos sapiente rerum nobis. Debitis ut laboriosam consequatur sapiente quae. Incidunt facere at reiciendis. Totam cumque dignissimos libero et.	II semestre	1	9	NULL
+117	7	optio corporis explicabo	Placeat minus nobis veritatis aut dolorem autem. Adipisci error occaecati optio. Enim vel sit id iste dolores. Tempore quia dolorem modi alias vel.	I semestre	2	13	NULL
+119	7	corrupti doloribus molestiae	Laboriosam perspiciatis natus voluptatem. Qui optio necessitatibus vel molestiae. Facilis et neque iusto. Ut sunt ut quas aut asperiores eum id iste. Ipsum dolores sequi non voluptatem eos.	I semestre	2	4	NULL
+122	7	autem recusandae doloremque	Saepe ut ea voluptatem odio sint fugiat at. Est illo nam blanditiis soluta ut maxime. Iste fugit deserunt voluptas.	II semestre	2	8	NULL
+123	7	molestiae beatae est	Laudantium dolores porro voluptas dolorem est possimus incidunt. Et explicabo quae rerum. Quae doloremque ea sit sapiente dolorem.	II semestre	2	5	NULL
+124	8	quia vero illum	Repudiandae amet porro quis necessitatibus amet porro ut. Corrupti ea voluptas est qui laudantium est. Accusamus corporis laudantium unde eos reiciendis aut.	I semestre	1	3	NULL
+126	8	quibusdam dolor alias	Voluptas sed perferendis et consequatur sapiente laboriosam. Maiores quae tenetur ipsa in. Quidem omnis corporis deleniti sit suscipit fugit. Occaecati velit aliquam voluptatem aperiam eaque sint.	I semestre	1	4	NULL
+127	8	temporibus voluptatem magni	Mollitia adipisci eveniet qui perspiciatis quidem eum soluta laborum. Tenetur eaque qui cum et quia.	I semestre	1	5	NULL
+128	8	velit ut dolorem	Neque labore rerum minus. Autem consequuntur sint voluptatem nobis beatae quas. Et nobis sunt quo eos est similique id. Dolor ut quia sunt est. Recusandae enim adipisci unde libero.	II semestre	1	13	NULL
+131	8	tenetur animi autem	Ut quam ex rerum doloribus doloremque iure. Et et sed nisi dolores praesentium facere rerum. Sequi explicabo impedit eius quisquam et ratione id.	I semestre	2	4	NULL
+132	8	nulla nesciunt rerum	Facere voluptate omnis minima praesentium quam soluta. Quo eligendi a iusto placeat. Fugit ut sapiente architecto et sed perferendis nulla. Iste reprehenderit excepturi necessitatibus dolor eum.	I semestre	2	8	NULL
+139	9	deleniti et ullam	Aperiam qui non illum provident natus. Distinctio officiis modi quo illum nobis. Eaque laboriosam quia et omnis vero dolor. Ex nihil repudiandae tempore.	I semestre	1	4	NULL
+144	9	consectetur dolorem earum	Nobis consequatur sunt et. Velit delectus at vero. Aliquam vitae non non eum quibusdam. Iure ipsa odio modi et. Ipsa cum ut nihil modi soluta.	II semestre	1	8	NULL
+145	9	omnis incidunt recusandae	Soluta ipsam dolore expedita totam velit dolores est. Voluptatum similique et labore unde voluptas. In et iste pariatur.	II semestre	1	10	NULL
+147	9	sapiente quia accusantium	Aut perferendis similique sint velit perferendis aliquam qui. Autem occaecati velit soluta. Est exercitationem dolor dolores ducimus.	I semestre	2	11	NULL
+149	9	quod ut aliquid	Enim et aut sunt quas. Quidem ut a nesciunt repellendus sed. Occaecati modi voluptatem et omnis expedita ipsa. Quo aut eum voluptate voluptatem sit.	II semestre	2	13	NULL
+150	9	eaque exercitationem non	Eaque quia itaque aliquam vitae nobis quas. Eius soluta et tempora officia reprehenderit id voluptatem. Rerum aut velit sed consequatur.	II semestre	2	11	NULL
+152	10	nesciunt esse natus	Et nulla dolorem voluptas est debitis. Iure sunt tempora aut necessitatibus quidem natus qui explicabo. Quisquam animi atque saepe voluptatem.	I semestre	1	12	NULL
+153	10	accusamus ducimus saepe	Rerum perferendis omnis dolores hic molestiae voluptas. Maiores dignissimos aperiam quia est incidunt sed vel. Voluptates enim ad voluptatem sed.	I semestre	1	8	NULL
+154	10	quae non voluptate	Minima tenetur ut non aliquid qui aut. Non itaque inventore nemo. Dolor asperiores incidunt ut animi. Voluptates ut illo soluta explicabo.	I semestre	1	6	NULL
+157	10	qui ipsa non	Eveniet magni ipsam quae iusto. Minima tempora voluptatem vel ut quod ipsum sunt. Esse dignissimos eligendi consequatur hic fuga quia aut mollitia.	II semestre	1	13	NULL
+160	10	aut dignissimos totam	Qui eveniet sed exercitationem. Aut est eum est non asperiores et enim nobis. Odit aut libero architecto tenetur iusto provident. Adipisci corrupti officia qui odio ad nihil molestiae.	II semestre	1	8	NULL
+163	10	tenetur omnis amet	Molestiae repellat ut temporibus sint. Asperiores soluta harum architecto ut nihil maxime.	I semestre	2	3	NULL
+165	10	odio est qui	Repellendus ex eveniet minima dolorum ut qui neque. Ad voluptate qui voluptas omnis dolor. Illum voluptas et aut vitae. Voluptate rerum praesentium eum quis eius non.	I semestre	2	10	NULL
+166	10	quae quam non	Ratione aut iste necessitatibus. Quo debitis modi omnis quo provident incidunt. Nihil natus odio nulla aut dolorem suscipit consequatur.	II semestre	2	6	NULL
+167	10	voluptatum repellendus rerum	Culpa dolores sit praesentium ipsum qui possimus. Modi ipsa ipsam facilis vitae. Consequuntur ad laboriosam laudantium. Et ut et repudiandae libero sed nostrum.	II semestre	2	6	NULL
+168	10	ipsa dignissimos id	Aliquam perspiciatis officiis quaerat quia veritatis rerum amet. Facere excepturi qui omnis ab iusto tempore vel.	II semestre	2	7	NULL
+170	11	ullam ullam dignissimos	Perferendis voluptate et ratione sunt. Laborum harum sunt possimus porro veritatis. Iste incidunt ipsam laborum fugiat.	I semestre	1	9	NULL
+171	11	omnis aut ab	Minima ad corrupti repellendus quas velit. Et aut quidem aut occaecati. Et sapiente eum sit sed iusto omnis veritatis. Et dolorem iste aut praesentium. Sed vel nesciunt ullam autem facilis vitae.	I semestre	1	6	NULL
+174	11	corporis odit sint	Eveniet cupiditate rerum doloremque consequuntur in. Ipsam in id quia ullam sed at dolor. Distinctio et molestiae modi non autem esse doloribus. Soluta numquam quia optio impedit sapiente.	II semestre	1	11	NULL
+175	11	et aut enim	Sit maiores aperiam dolorem quae debitis nulla quam. In velit placeat quia tempora atque autem sequi. Voluptas distinctio vitae sed quia et. Modi vel nam consequatur sint incidunt error.	II semestre	1	4	NULL
+176	11	sunt repellat et	Dolor et maxime nulla atque. Asperiores ad voluptatem ab eius. Et dolore optio aut ducimus est nihil. Ut atque sunt et voluptatibus et. Vel dolorum quia laborum at corporis sunt.	I semestre	2	7	NULL
+180	11	et quibusdam libero	Quam ipsa culpa qui libero. Totam ratione alias excepturi necessitatibus voluptatem mollitia. Et molestiae rerum aliquam quidem voluptatem itaque illo.	II semestre	2	11	NULL
+181	11	et possimus quae	Culpa aliquid aut repellendus. Ut deleniti dignissimos nobis nihil dolores. Culpa quo autem odio sequi quos. Ut voluptas repellendus sit eveniet ut.	II semestre	2	5	NULL
+182	11	quia labore vitae	Ut molestiae enim eum modi ut. Beatae officia repellat est ducimus sit. Pariatur minus aperiam officia velit.	I semestre	3	6	NULL
+183	11	ut eum quia	Quisquam numquam praesentium voluptate itaque omnis. Ea quisquam dolorum velit alias unde autem rerum. Necessitatibus ducimus illo sint voluptates odio fugit sunt sapiente.	I semestre	3	14	NULL
+184	11	similique similique et	Accusantium nemo odit veniam doloremque qui. Ex magni aperiam nam delectus.	I semestre	3	12	NULL
+185	11	voluptatem in excepturi	Sed quia necessitatibus aut. Ea nostrum voluptas repudiandae delectus deserunt ut. Similique qui perferendis explicabo occaecati velit. Esse expedita nesciunt eum accusantium sed qui.	II semestre	3	6	NULL
+188	12	aliquid aut excepturi	Deserunt ut quibusdam et. Repudiandae ut temporibus magnam porro sed. Occaecati ducimus maiores beatae excepturi.	I semestre	1	3	NULL
+190	12	eligendi temporibus sit	Eum voluptas eos voluptatibus voluptatem nulla repudiandae aut. Aut quas consequatur dolore est est. Totam nulla sunt voluptas rem et iusto similique assumenda.	I semestre	1	6	NULL
+191	12	eum eos harum	Reiciendis repudiandae repellat explicabo. Itaque molestiae molestiae et numquam deserunt. Quae veniam qui eum voluptas ipsum qui et.	II semestre	1	5	NULL
+194	12	minus et soluta	Cum facilis suscipit labore et laudantium natus sit. Et voluptatibus id maxime quos sint dicta dolorem rerum. Quidem totam dolorum aut distinctio.	II semestre	1	7	NULL
+195	12	qui voluptatem iste	Ut architecto consequatur sunt ut. Saepe quia enim facilis perferendis qui dolor. Quam omnis natus saepe iusto in velit. Omnis iste dolorem tenetur reiciendis.	I semestre	2	4	NULL
+196	12	quis pariatur voluptatem	Est dolore quasi et saepe numquam illum maxime. Provident eos est maiores impedit consequatur et vero illum. Et vel rerum aspernatur. Omnis in quos placeat accusamus alias.	I semestre	2	9	NULL
+197	12	vel et aut	Est ipsum ad soluta nam. Aspernatur iure eum dolor asperiores animi magni. Qui hic id veniam iure voluptate ea. Ut accusantium aspernatur expedita sequi.	I semestre	2	11	NULL
+198	12	omnis exercitationem ipsa	Quia et unde quod cum aut maxime cumque. Nam quibusdam nobis soluta odio. Quisquam velit doloremque consequatur voluptatem cumque.	I semestre	2	4	NULL
+200	12	similique qui sapiente	Voluptate reiciendis et beatae et iusto ad. Magni at eum mollitia sapiente. Totam quis reiciendis non dolorem sed.	II semestre	2	15	NULL
+202	12	magnam laudantium maxime	Eveniet vitae ad aliquam a aut velit. Nihil culpa ab ratione temporibus commodi. Sint totam quisquam officiis deleniti incidunt. In impedit non est.	II semestre	2	4	NULL
+204	12	placeat sit doloribus	Sed nihil voluptatem distinctio magnam vel. Saepe dolorum vel pariatur reprehenderit. Qui quia odit eius. Libero a nisi nemo.	I semestre	3	5	NULL
+205	12	tempore fugiat totam	Repudiandae eum error quo rerum a aut. Et laudantium aspernatur dolores. Odit sit recusandae molestias occaecati hic.	I semestre	3	7	NULL
+206	12	sunt ut dolorem	Nihil laborum laborum eligendi vel corrupti ratione. Sed suscipit et doloremque eligendi et. Enim rerum ut ut.	II semestre	3	13	NULL
+211	13	officiis fugiat voluptatem	Voluptas ut quia et odio asperiores eos eaque. Ullam quidem in quis.	I semestre	1	3	NULL
+214	13	ratione dolorem debitis	Nulla similique voluptas saepe in. Beatae officiis rerum suscipit voluptate perferendis architecto. Non reiciendis omnis esse.	I semestre	2	12	NULL
+215	13	minima fuga corrupti	Eos est sit eum omnis. Officiis labore ipsam quia sit. Et modi non sint voluptatem dolores rerum consequatur consequatur. Quo dolorem ipsa aut numquam.	I semestre	2	9	NULL
+216	13	exercitationem nostrum at	Repudiandae quaerat dolores harum est. Porro dolor temporibus et. Dolorem voluptate in est ut culpa.	I semestre	2	14	NULL
+219	13	nemo cumque optio	Molestiae ex repudiandae veniam dicta. Et suscipit voluptatem rem laudantium quo. Omnis tempora expedita dignissimos explicabo. Esse quas et aut aliquam deserunt ea.	II semestre	2	3	NULL
+221	13	quibusdam similique occaecati	Assumenda dolores porro iste tempore est nemo. Ea laboriosam corporis sed sed sed expedita blanditiis.	II semestre	2	10	NULL
+222	14	quia praesentium perferendis	Et repellendus distinctio consequatur. Voluptas in eveniet sed perspiciatis earum. At fugit est cumque sed sed.	I semestre	1	12	NULL
+227	14	ut porro consequatur	Illo vel deleniti ea laborum sed deserunt beatae. Sint qui sunt ullam et. Quisquam excepturi laborum excepturi. Animi sed voluptatem aliquid sunt quo.	II semestre	1	7	NULL
+228	14	earum iure maxime	Recusandae quas quod voluptate qui vel. Temporibus sunt tenetur voluptatem atque expedita id excepturi. Optio veniam esse accusamus nihil quia. Cumque id excepturi omnis facere aut dolor ea.	I semestre	2	4	NULL
+231	14	illum non accusamus	Nisi veritatis quis quo dolor incidunt nisi. Doloremque ullam occaecati sequi vel non deserunt. Commodi atque est soluta nihil vel eum. Numquam rerum sit odit explicabo aut ea.	I semestre	2	13	NULL
+237	15	ut perferendis sunt	Voluptatum unde deleniti voluptatem ea ut qui. Quia consequatur molestiae reprehenderit aperiam. Consequatur inventore animi laboriosam reiciendis voluptatibus repellendus.	I semestre	1	3	NULL
+238	15	ea ut autem	Sed reiciendis nostrum accusantium culpa corrupti minus. Enim dolores est minima dolore. Repellendus culpa sed vero ut quo voluptas natus aspernatur.	II semestre	1	10	NULL
+242	15	deserunt quia non	Itaque vitae labore repellendus et labore. Reprehenderit quos quo dolorem architecto temporibus sequi perspiciatis aperiam.	I semestre	2	7	NULL
+243	15	est ratione qui	Nesciunt corporis at vel vel qui et. Voluptatibus sequi dolores earum suscipit.	I semestre	2	8	NULL
+244	15	enim perferendis autem	Dolores exercitationem temporibus rerum et suscipit adipisci. Earum autem rerum inventore hic. Quaerat illo temporibus architecto.	I semestre	2	3	NULL
+249	15	voluptatem qui laboriosam	Voluptatem exercitationem quaerat facere dicta. Possimus rerum nemo nisi et. Eligendi dignissimos atque est id. Dolorem sequi ratione impedit voluptate similique.	I semestre	3	3	NULL
+250	15	dolorem aut dignissimos	Asperiores ut quasi sint recusandae. Dolorem ad sit est iure. Eum excepturi quos iusto est.	I semestre	3	3	NULL
+253	15	voluptatem rem ut	Officia possimus ex magni reiciendis. Repellendus architecto ut et aut voluptatem aut quia. Architecto aut sit doloremque necessitatibus.	II semestre	3	15	NULL
+256	15	hic et et	Ut at inventore ut. Aut error voluptates rerum repellat saepe ex.	II semestre	3	9	NULL
+259	16	numquam deserunt quasi	Quod dolorum molestias molestiae deserunt sed. Soluta ex vel expedita et. Id assumenda ipsum ducimus odio dolorum non alias ut. Nisi facere tenetur iure odio exercitationem est.	I semestre	1	15	NULL
+260	16	occaecati officiis aliquid	Illo iusto consequuntur cupiditate modi nostrum qui quia nesciunt. Blanditiis praesentium dolor sint. Ipsa voluptas omnis repellendus voluptatem qui tempora animi omnis.	I semestre	1	3	NULL
+262	16	eligendi adipisci corporis	Quaerat repudiandae doloribus amet qui. Est tempora eum ipsum. Doloremque qui laborum aut.	II semestre	1	8	NULL
+263	16	aspernatur et suscipit	Earum iste veniam cum quo voluptates expedita. Et dicta adipisci velit quia eaque quod natus. Voluptatibus aspernatur deleniti quas eaque quas et tempora. Esse doloremque qui molestiae.	II semestre	1	3	NULL
+265	16	laudantium sunt consequatur	Esse provident saepe itaque sequi dolores molestiae sint. Rerum exercitationem vel consequatur harum dolores. Et laboriosam commodi sed cum nulla.	I semestre	2	4	NULL
+269	16	placeat est repellat	Hic aut molestiae rerum voluptas qui. Sit maiores suscipit et ad quis. In consequuntur cumque ut molestiae minima.	II semestre	2	6	NULL
+271	16	est quos delectus	Quo consequatur quasi voluptatum consectetur et rerum voluptatibus. Fuga et quam consectetur in eveniet est facilis.	I semestre	3	10	NULL
+276	16	quia maxime molestiae	Architecto sint quia quibusdam nihil id impedit. Consequatur aliquam error veritatis placeat. Temporibus rerum quibusdam illum voluptatem quam non dignissimos odio.	II semestre	3	5	NULL
+278	17	ea et harum	Pariatur laudantium cumque fuga voluptatum nihil. Dolore aliquam animi voluptatem enim. Perspiciatis qui animi veritatis velit.	I semestre	1	13	NULL
+280	17	rerum sint voluptates	Ratione voluptatem ipsum a commodi molestias. Sit voluptas distinctio cupiditate dolores sint omnis rem. Accusamus aut aut in sapiente sit. Enim vel placeat et doloribus.	I semestre	1	4	NULL
+282	17	quas molestiae eveniet	Quo a impedit ut sit. Mollitia sed vel sed quia illum quis aut excepturi. Eligendi animi dolore ut.	II semestre	1	9	NULL
+283	17	voluptatibus veniam consequatur	Et incidunt natus sapiente sint ut aut. Provident dolorem harum rerum harum temporibus praesentium. Dolorem placeat explicabo sint numquam quis rem.	II semestre	1	10	NULL
+284	17	maiores cumque repudiandae	Quo corrupti vero omnis perspiciatis porro quisquam in. Quia et odit et explicabo dolorem. Qui nisi eveniet nihil sint.	II semestre	1	13	NULL
+287	17	qui similique qui	Molestias quam sed voluptate est culpa dicta. Sapiente et nisi et eum similique voluptatem et. Nihil rerum est esse rem labore maiores provident laborum. Accusamus deserunt qui eius doloribus.	I semestre	2	12	NULL
+292	17	nemo quis omnis	Vel exercitationem sed id qui. Atque magnam eligendi inventore facere voluptatibus qui eveniet. Natus cupiditate vel placeat illum quisquam reiciendis et. Aperiam quia ut eos esse eos culpa commodi.	II semestre	2	14	NULL
+294	17	id et ut	Reiciendis quo a aliquam numquam dicta possimus. Dolore aliquam voluptas enim voluptatem. Temporibus fuga ut ipsa commodi.	I semestre	3	7	NULL
+295	17	sit officia accusamus	Velit dignissimos et officiis totam sed voluptates veniam. Excepturi sed fugiat rerum incidunt corporis voluptatum. Quae aliquid qui illo quos non voluptates.	I semestre	3	11	NULL
+296	17	rerum quod voluptatem	Labore quos et veniam facere. Non ipsam possimus nisi ut in alias sit. Rem vel laborum optio sint rerum. Quia officiis ea enim et recusandae. Fuga est tempora rerum et natus.	I semestre	3	6	NULL
+301	18	fugit molestiae earum	Quo tempora dolor necessitatibus suscipit fugiat odio repellendus. Ab qui magnam modi.	I semestre	1	11	NULL
+302	18	nisi illum vitae	Est est eveniet unde culpa aut nihil vitae omnis. Assumenda modi repellat ea omnis.	I semestre	1	11	NULL
+305	18	sit at quia	Soluta ut deleniti eum voluptates voluptatem. Qui libero est repellendus suscipit maxime provident nobis. Consequatur consequatur dolores a occaecati et.	II semestre	1	3	NULL
+306	18	ipsa dolores quis	Adipisci voluptas et iste illo et natus libero nam. Rerum dolorem aut autem tempore quae. Labore et itaque possimus non qui et ipsa. Quis qui corrupti amet est eveniet alias.	II semestre	1	9	NULL
+308	18	eveniet molestias quas	Quia omnis vero neque consequuntur adipisci debitis. Sunt voluptates numquam consequatur a dolor modi. Dolor doloribus molestiae laboriosam molestias.	I semestre	2	10	NULL
+309	18	cupiditate optio commodi	Aut dolores repellendus et magni voluptas. Eius in et numquam quis nam iure rem. Repellat deserunt iste dolor accusamus saepe possimus non. Est vitae nesciunt non voluptas.	I semestre	2	10	NULL
+312	18	officia nobis necessitatibus	Debitis quia molestiae ipsa harum necessitatibus qui. Qui dolore voluptatem ut hic ab atque pariatur. Architecto magnam fugiat dolor.	II semestre	2	12	NULL
+313	18	placeat debitis voluptatibus	Suscipit aut cupiditate eligendi dolores et asperiores. Maiores explicabo debitis rerum omnis. Voluptas nam sit impedit maiores.	II semestre	2	5	NULL
+314	18	possimus earum qui	Quo ab minus voluptatem recusandae sed et. Maiores debitis impedit iste. Autem minima nulla totam aut sint magni. Qui voluptas doloremque eos quia totam deserunt laboriosam.	II semestre	2	15	NULL
+319	19	adipisci aliquam dolorum	Cum occaecati ducimus ad sed sed qui nisi. Et quasi doloribus deleniti quod rerum iste. Corporis quas error laborum similique sint ut repudiandae. Aut eos nam rem molestiae deserunt voluptatum.	I semestre	1	11	NULL
+321	19	occaecati voluptatibus voluptatem	Dolorum dolorum velit rerum est. Praesentium maiores qui temporibus eius. Magni occaecati suscipit quam similique ipsam nisi.	II semestre	1	10	NULL
+322	19	inventore enim qui	Dolore aut maiores magni iusto molestias odit quis quod. Dolor iste ipsum modi ea exercitationem. Voluptas quo itaque omnis autem placeat similique ipsum assumenda.	II semestre	1	10	NULL
+325	19	cumque doloribus ducimus	Ea debitis maxime impedit voluptatum ducimus. Neque expedita quia asperiores tempora delectus omnis fuga dolore.	I semestre	2	14	NULL
+326	19	est molestiae dignissimos	Hic assumenda et cupiditate architecto consequatur. Culpa voluptatem ut tempora. Et non est et maiores voluptatem. Aut deleniti ullam eos fugit beatae.	I semestre	2	4	NULL
+327	19	qui aspernatur aut	Maxime temporibus qui sed iste necessitatibus natus. Nulla et nihil asperiores. Molestias et et veritatis. Nam in sit qui error.	I semestre	2	7	NULL
+328	19	et ducimus sed	Rerum dolores explicabo ratione cum ut. Debitis occaecati culpa voluptatem corrupti et libero. Debitis eveniet quas eum atque ea ea sed. Commodi sit voluptatibus qui tempore harum qui sunt.	I semestre	2	13	NULL
+330	19	sapiente rerum sint	Optio esse dicta nulla dolorem harum molestiae aut. Est dicta quia et. Voluptate ut temporibus maxime omnis voluptatibus temporibus. Incidunt quod perferendis corporis voluptatem omnis.	II semestre	2	5	NULL
+332	19	sed quis itaque	Nesciunt corrupti deserunt saepe non ut esse blanditiis. Esse est qui fugiat ut. Aut dignissimos rerum excepturi sint.	II semestre	2	15	NULL
+333	19	possimus ut mollitia	Commodi laboriosam dolorum eos ipsam voluptatum eos saepe. Sed aperiam quia corporis ab omnis et expedita qui. Et minima sunt distinctio quia cum ipsum debitis.	I semestre	3	5	NULL
+337	19	voluptatem sunt sunt	Quia ipsum aperiam quasi quo corporis sed. Minima nihil sit et magnam sit nesciunt. Labore laborum minima et. Veniam odit est voluptate necessitatibus aut.	II semestre	3	9	NULL
+341	20	officiis corrupti et	Aspernatur at non neque est dolorem. Ea eaque quo sint eum. Modi voluptatem eligendi dolorem. Culpa possimus illum est ipsum.	I semestre	1	14	NULL
+343	20	error officia nulla	Ducimus minima numquam rerum dolorem porro itaque. Non itaque eligendi ad corrupti velit. Dicta iure officiis explicabo et pariatur distinctio ad.	II semestre	1	4	NULL
+345	20	eos quis officiis	Deserunt fugit consectetur quibusdam possimus fugiat nobis ut. A iusto non eligendi officia ratione corrupti quo. Molestias nam aut natus vero.	II semestre	1	8	NULL
+346	20	doloribus aut pariatur	Molestiae quia iure corporis aut facere eos. Fugiat amet assumenda omnis fuga consequatur. Quis aut quos est excepturi.	I semestre	2	5	NULL
+347	20	et necessitatibus earum	Et voluptas ipsam eos fuga magni. Ea odit sapiente aliquam dolore accusamus iste suscipit consequuntur. Ullam veritatis odio necessitatibus.	I semestre	2	7	NULL
+348	20	ducimus laborum aliquid	Alias voluptatem ratione aspernatur eos id. Numquam error in quia in. Facere officia culpa veniam cupiditate.	I semestre	2	13	NULL
+349	20	voluptatibus omnis et	Voluptatem unde quas qui. Repellendus odio quis occaecati ut. Labore at aperiam necessitatibus labore neque.	II semestre	2	11	NULL
+350	20	expedita consequatur nihil	Qui voluptate nulla officiis modi delectus. Omnis necessitatibus cum assumenda temporibus quibusdam et est.	II semestre	2	12	NULL
+351	20	ut dolorum soluta	Et excepturi et at maiores illum laborum maiores. Eius quia et tempora quia. Doloremque expedita vel qui maxime. Sed assumenda excepturi odit vero fugiat ab.	II semestre	2	11	NULL
+352	20	voluptatem fugiat corporis	Doloribus impedit in non dolorem saepe culpa nemo. Omnis in id consequuntur labore qui eum ipsum asperiores. Quisquam veritatis tempore doloribus. Consequatur totam et autem esse rerum sit qui animi.	I semestre	3	6	NULL
+353	20	quo a qui	Nemo vel ea recusandae et. Maiores sunt est et iure consequatur dignissimos. Officia minima nam voluptates eaque. Voluptatem veniam commodi ipsum aliquid in soluta reiciendis aspernatur.	I semestre	3	6	NULL
+354	20	debitis in quo	Officiis omnis qui id maiores molestiae. Et perspiciatis voluptas quibusdam maiores aut est. Veritatis aut veniam explicabo a nulla eveniet repellendus.	I semestre	3	13	NULL
+355	20	at maxime et	Asperiores ut sunt distinctio quia voluptate modi. Quo quisquam aut nobis dignissimos eaque. Debitis ex repellendus culpa ea assumenda maiores. Quia pariatur dolores vero sed omnis.	I semestre	3	3	NULL
+356	20	quod blanditiis dolor	Vel non aut maxime veniam. Culpa beatae corrupti laborum expedita ipsa eos. Harum molestiae fugiat aliquid ullam cumque.	II semestre	3	9	NULL
+357	20	quis minus ad	Ipsam expedita aut quo numquam dolores. Et aspernatur itaque sint quibusdam et. Esse eius repellendus totam veniam dolor non. Laudantium cum aspernatur provident.	II semestre	3	3	NULL
+364	21	repellat saepe recusandae	Delectus laborum quae doloribus facilis officia autem rerum. Maiores id sit ea dicta reprehenderit saepe sapiente. Perspiciatis eos totam illum earum laborum est aut. Esse nulla et odio qui non.	II semestre	1	4	NULL
+369	21	veniam molestiae molestias	Harum eos vero ea ut ut aut. Aut totam sit minima iusto aperiam iste mollitia. Nostrum officiis qui est non accusamus sint sunt. Sapiente nulla qui similique dolorem id similique.	I semestre	2	11	NULL
+371	21	unde non corporis	Libero fugit vitae molestiae et. Pariatur incidunt rerum dolores cumque impedit vitae impedit. Asperiores quod in tenetur harum. Ex non quod omnis distinctio.	II semestre	2	12	NULL
+373	21	quidem maxime sapiente	Sunt ipsum id consequuntur eveniet. Numquam quae eum culpa dicta.	I semestre	3	8	NULL
+377	21	iure facilis delectus	Qui qui alias temporibus ut aut repellat voluptatem. Aperiam quis sunt repudiandae hic dolorem. Optio suscipit repellendus quas in ut. Dolor molestiae occaecati et qui. Adipisci ea sed aut quia illo.	II semestre	3	3	NULL
+380	22	ut fuga sapiente	Minus eius commodi quis in. Iusto culpa ipsa sint odit eaque. Sed aliquam in exercitationem. Consectetur laudantium illo exercitationem eveniet et et eius quia.	I semestre	1	10	NULL
+381	22	eligendi corrupti tempore	Nobis consequatur quam neque placeat deleniti vitae. Tempore in aperiam natus eos sit distinctio. Exercitationem nam sequi aliquid suscipit in delectus distinctio.	I semestre	1	11	NULL
+382	22	corrupti enim praesentium	Quidem omnis excepturi nihil odit iusto harum. Ullam dignissimos facilis ut ullam omnis. Hic ad molestiae harum voluptatem consequatur. Ut adipisci maiores similique ut autem est eum.	II semestre	1	14	NULL
+385	22	aut consequatur exercitationem	Molestiae nesciunt numquam doloremque cumque dolores sunt libero sed. Dolorum nihil quo provident voluptas itaque quam exercitationem. Fugiat occaecati architecto laboriosam fuga.	II semestre	1	11	NULL
+387	22	et aut quae	Maxime velit sunt ad. Nihil molestias nesciunt id consequuntur et. Sit sequi ipsum et et voluptas dolor nemo labore. Quis eius inventore magni deserunt enim alias.	I semestre	2	5	NULL
+388	22	voluptates tenetur quisquam	Dolorem ea voluptate minima occaecati. Sed vero sint consequatur omnis sed et ullam. Minus expedita expedita veritatis et at cum.	I semestre	2	8	NULL
+389	22	pariatur laboriosam quae	Provident nostrum et qui nihil aut. In iure et non ut qui soluta. Qui amet at aut eum sapiente. Quod earum aut cumque nisi ut facere.	II semestre	2	6	NULL
+391	22	sequi id eum	Corporis perferendis rerum praesentium vel autem molestiae. Rerum et ab unde. Mollitia sequi ut quam fugit ducimus et debitis.	II semestre	2	10	NULL
+392	22	aspernatur aut ut	Veniam neque nam ex quae ut ab et. Numquam et labore reiciendis et quidem accusantium quo. Culpa magnam non voluptates accusamus ut enim commodi sit.	I semestre	3	10	NULL
+393	22	dolorum officiis tempore	Ipsam autem culpa aut voluptatem sit voluptatem enim consequatur. Commodi cupiditate tempore quasi blanditiis laudantium. Et dolorum accusamus nostrum quia. Et vel ullam numquam nihil.	I semestre	3	8	NULL
+397	22	et nam aut	Soluta unde exercitationem eligendi ea labore. Asperiores fugit et esse aut. Eius qui est eum. Dolorem et sequi voluptatibus et tempora quis qui.	II semestre	3	11	NULL
+399	22	modi deleniti delectus	Veniam laborum voluptatem quas consectetur suscipit sit quidem. Veritatis ipsum et officiis perferendis iusto animi.	II semestre	3	6	NULL
+400	23	est accusantium vitae	Quis et adipisci consequatur. Modi ex natus dolorem alias quidem voluptatem. Impedit sapiente fugit dolor et.	I semestre	1	3	NULL
+402	23	reprehenderit numquam et	Non vel distinctio possimus ut aut illum. Dolorum laboriosam et similique labore. Mollitia reiciendis laboriosam minima pariatur earum.	I semestre	1	3	NULL
+403	23	qui quibusdam accusantium	Sed quos eius vel eos. Dolor ut molestias et aut eum. Nostrum quisquam voluptatem est ullam ab.	I semestre	1	10	NULL
+404	23	delectus laudantium quos	Mollitia pariatur sunt architecto fuga. Ea recusandae omnis quos eum tempora exercitationem porro. Possimus voluptatem accusamus tenetur labore. Maxime dolores ut assumenda consequatur totam fugiat.	II semestre	1	5	NULL
+405	23	ab ex est	Iste magnam voluptas doloribus. Doloremque numquam consectetur quam quasi sed cum non. Quis aliquam ut aperiam optio ut. Commodi alias quod quod ut deleniti. Quo magni tempora ipsa sed tempore a.	II semestre	1	6	NULL
+407	23	voluptas voluptatem sint	Sed nihil eligendi aut voluptatem rem sequi. Sit soluta alias voluptates repellat. Sapiente autem deserunt qui est tempora reprehenderit.	I semestre	2	3	NULL
+408	23	necessitatibus sed vel	Qui neque delectus dolor modi. Explicabo totam numquam qui itaque. Tempora minus illum corporis. Enim ut dolorem culpa.	I semestre	2	15	NULL
+409	23	architecto id cum	Officia dolorem esse debitis culpa nobis quas dolores. Voluptas a soluta vitae veritatis debitis ducimus ratione. Repellendus quo eaque libero harum. Nam earum impedit temporibus eum.	I semestre	2	13	NULL
+410	23	sunt fuga qui	Dolore reprehenderit et ut sit ex. Magni voluptas et sint similique voluptatem. Qui sit sed ipsum ex enim minima libero. Ut repellendus eaque et dolor fuga magni nam suscipit.	II semestre	2	15	NULL
+412	24	ipsum dolor suscipit	Saepe libero sit consequatur eaque aspernatur. Qui est error dolore inventore molestias repudiandae. Repellat ut voluptas commodi repudiandae. Eos unde id voluptas et.	I semestre	1	9	NULL
+416	24	quia aspernatur dolorum	Voluptatem illum qui veniam optio deserunt itaque numquam. Vero et sit ea ab fugit alias amet dignissimos. Ut qui et dolore alias. Facilis ut dolores maiores voluptate dicta.	I semestre	1	13	NULL
+417	24	omnis amet omnis	Amet in suscipit impedit itaque voluptatem eum tempora. Et amet consectetur consequatur placeat. Unde culpa quis et.	II semestre	1	5	NULL
+418	24	voluptas veniam similique	Sunt necessitatibus consectetur voluptas omnis et voluptatem. Illo sed consequuntur at error. Veniam quia voluptatem ut consequuntur autem autem nihil.	II semestre	1	13	NULL
+425	24	doloribus aspernatur dolore	Mollitia rem et tenetur sit ea doloremque modi. Numquam qui dolores voluptatibus. Nemo hic esse quia.	II semestre	2	9	NULL
+429	25	unde voluptas delectus	Nulla natus occaecati omnis laudantium nihil optio quaerat. Harum nostrum placeat officia impedit. Rerum nisi reiciendis inventore dolore.	I semestre	1	6	NULL
+430	25	et officia sunt	Omnis voluptate officia incidunt fugit. Quaerat est sit et quas molestiae corporis voluptatem. Praesentium aut officia provident inventore. Consequatur dolores amet ipsum rerum dolores harum iure.	I semestre	1	8	NULL
+431	25	laboriosam reiciendis nulla	Repellendus et non blanditiis nihil maiores. Autem dolor laudantium itaque aut quaerat natus. Eligendi eius possimus delectus. Id doloremque dolorum est at magni consequuntur.	II semestre	1	10	NULL
+432	25	sequi quia delectus	Aut quas quia quo facere. Nihil laboriosam et reiciendis omnis molestias ut. Tempora nobis atque numquam reprehenderit. Hic id rerum fugiat labore repellendus laboriosam.	II semestre	1	10	NULL
+436	25	nesciunt eligendi sed	Vel consequuntur deserunt ipsam nesciunt aut omnis. Accusamus officia et sit rerum. Omnis ut quo iste qui. Commodi ut id ut voluptas sint.	I semestre	2	13	NULL
+437	25	et magni voluptas	At sequi voluptatem debitis. Deserunt excepturi qui totam enim. Dolore recusandae eveniet maxime.	II semestre	2	15	NULL
+439	25	accusamus aut corporis	Saepe exercitationem minima voluptas. Vero quis dolorum eveniet reiciendis nihil illo. Consequatur commodi omnis fuga quaerat non omnis quaerat.	II semestre	2	5	NULL
+440	26	vel deleniti tempore	Nihil itaque ea doloribus. A qui voluptatem eum ut sit. Laboriosam eaque et debitis dolor eligendi sed. Sed assumenda veniam voluptatem temporibus est nesciunt.	I semestre	1	15	NULL
+441	26	laboriosam ut iusto	Magnam reprehenderit et mollitia velit sed. Sint voluptatem numquam fuga veniam. Et culpa eius et et ipsa accusantium.	I semestre	1	5	NULL
+442	26	consequatur ea ipsam	Neque et debitis vitae aspernatur magni. Fugit aut quis rerum repellendus et ratione. Aliquid et fuga incidunt aliquid facilis tempore.	I semestre	1	8	NULL
+443	26	tenetur et itaque	Quia quidem vitae ut quis ea veritatis est. Magnam et nihil dicta et provident laborum. Suscipit necessitatibus vero similique sit quia. Voluptatibus est odio aut sint quos.	I semestre	1	4	NULL
+445	26	ea impedit quidem	Voluptas dolorum voluptatem sequi velit minus iusto provident. Et dignissimos rerum minus voluptatem. Veniam qui impedit ipsam aut amet rerum. Ut accusamus repudiandae aut aut sint est accusamus.	II semestre	1	12	NULL
+446	26	id soluta est	Facilis eos eos quo dolor sed dolorem. Dolores nihil consequatur sapiente sed error. Maiores natus odit doloribus occaecati error. Qui tempora sequi quis et odio.	II semestre	1	10	NULL
+447	26	aliquid ducimus optio	Dolore quaerat excepturi et nam qui non. Id dolor fugit quam est explicabo. Amet recusandae cumque dicta non.	II semestre	1	13	NULL
+448	26	saepe harum quidem	Magnam est a odit rerum qui qui. Voluptatem porro nihil quo sit. Corrupti recusandae non deserunt accusamus similique delectus corporis. Quis id enim nulla nihil cupiditate est.	I semestre	2	15	NULL
+450	26	et sed eum	Ducimus ipsam nobis maxime quod at alias architecto. Ut ab quaerat exercitationem molestiae. Temporibus nobis dolor excepturi pariatur fugit perferendis.	I semestre	2	12	NULL
+453	26	impedit nihil iste	Aut ea ut esse ipsa sequi qui. Quo quasi recusandae quidem magni quae placeat sapiente. Culpa rerum ipsam provident quia aut adipisci velit.	II semestre	2	8	NULL
+454	26	rerum quos pariatur	Expedita soluta accusamus vero ratione explicabo corporis. Provident consequatur sit fugit numquam. Adipisci ullam aut voluptates quibusdam est facilis.	II semestre	2	10	NULL
+456	27	dolores facilis aliquid	Quibusdam et eveniet fuga. Ipsum autem ut vel non ex iusto velit. Quos laboriosam qui autem. Harum molestiae velit asperiores.	I semestre	1	6	NULL
+458	27	sit atque nulla	Cumque earum aperiam est sed praesentium repudiandae deleniti. Omnis eveniet voluptatem et officiis labore. Earum iure rerum non quasi earum voluptatibus.	II semestre	1	13	NULL
+460	27	commodi nam mollitia	Explicabo commodi aspernatur soluta nisi quaerat. Quibusdam aliquid asperiores et. Dolorem odio quod reiciendis id voluptatem ipsum. Minus odio sunt sit odit.	I semestre	2	12	NULL
+465	27	magni unde aliquam	Dolor eum corporis dolorem accusamus beatae. Facilis sint alias incidunt qui at. Quibusdam omnis explicabo quis consequatur non doloribus.	II semestre	2	5	NULL
+466	28	ipsam sed rem	Et et esse nam. Aut minus distinctio voluptates nisi modi eaque. Eaque voluptas inventore veniam. Et sint cum et.	I semestre	1	9	NULL
+468	28	et non molestiae	Magni tenetur repellat non dolorum dolorum. Est voluptas sit omnis perferendis blanditiis voluptates accusantium quos. Dignissimos et ipsam earum iure explicabo et ea omnis.	I semestre	1	9	NULL
+469	28	autem voluptas ab	Illum qui consequatur non amet repellat tempora quo provident. Totam esse perspiciatis quo quibusdam rem reprehenderit rerum. Veritatis ad vero aut molestiae nihil et quia.	II semestre	1	9	NULL
+470	28	quam et ut	Dignissimos nam numquam quis deleniti et non. Qui corporis et aliquam vitae laboriosam. Nihil non voluptatibus qui sunt. Ad illum fugiat omnis ex officia.	II semestre	1	5	NULL
+471	28	numquam amet eaque	Voluptas voluptas saepe nihil. Consequuntur neque illo aut dolores quo. Libero sunt quia impedit asperiores. Quia ipsam omnis sint eligendi. Molestiae rerum consectetur aspernatur cupiditate ipsa.	I semestre	2	9	NULL
+476	28	quidem rerum illum	Et voluptates harum enim officia. Repellendus magni laborum laborum amet. Facere officia necessitatibus occaecati labore saepe quidem.	II semestre	2	12	NULL
+477	28	ea ut ut	Quasi non consequatur sed sunt delectus numquam. Consequatur architecto ab nostrum ex similique eligendi architecto. Sequi ea et totam est placeat. Est aliquam minima nisi ut quis.	II semestre	2	6	NULL
+478	28	vel molestiae sed	Nisi est quaerat repudiandae sint qui laudantium. Eius ut quos esse numquam. Fugit et illo at molestiae molestias porro.	II semestre	2	14	NULL
+480	28	reprehenderit dolores necessitatibus	Accusantium qui consequatur corporis recusandae dolores. Dolor veniam provident esse earum. Sit doloremque dolores nemo distinctio. Repellendus ut tenetur quidem reprehenderit dolor aut.	I semestre	3	8	NULL
+484	28	quod veritatis incidunt	Illum eum accusantium delectus vitae est voluptatem. Aspernatur iste autem aut officiis. Labore cumque corporis consequatur excepturi enim. Ipsam totam tempora delectus quasi.	II semestre	3	14	NULL
+489	29	alias voluptatibus sed	Et minima molestiae eveniet. Iste est veritatis molestias et qui velit ut. Facilis fuga numquam et ducimus qui amet. Dolores animi cumque suscipit repellendus facere.	II semestre	1	7	NULL
+490	29	illum ex doloremque	Voluptates maxime vel corporis saepe molestias. Nisi sed omnis dolorem qui repellendus eos consequatur. Aperiam doloribus qui sed deserunt ad reprehenderit. Assumenda quas laudantium alias.	II semestre	1	11	NULL
+492	29	laborum provident voluptatibus	Atque voluptatem enim qui sapiente eaque. Consequatur voluptates mollitia commodi ut. Iste aliquid alias id aliquid quas quia quis.	I semestre	2	14	NULL
+493	29	dicta pariatur dolore	Nulla consequatur nisi vero atque laborum et. Dolores non et omnis reiciendis quae aspernatur modi. Maxime beatae vitae quae qui quo. Est qui consequatur eaque.	I semestre	2	9	NULL
+494	29	odio perspiciatis dolore	Qui neque tenetur placeat perferendis dignissimos et aut. Autem impedit soluta veniam rerum iure. Incidunt nesciunt rem voluptate aut.	I semestre	2	5	NULL
+495	29	asperiores modi qui	Explicabo impedit nobis labore ut. Amet fugiat natus magnam sed. Numquam repellendus ut modi non eum beatae. Libero et molestiae temporibus possimus maiores.	I semestre	2	10	NULL
+496	29	nulla hic corrupti	Molestias vitae aperiam praesentium fuga aliquam. Maiores id ipsum rerum quia aliquam illum odit. Unde commodi autem consequatur corrupti. Maxime sit occaecati et vero ducimus pariatur labore.	II semestre	2	10	NULL
+502	29	ducimus id culpa	Pariatur commodi laborum autem deleniti et. Aut consequatur autem numquam autem quia sed. Facilis corrupti consequatur deserunt distinctio eum.	I semestre	3	7	NULL
+504	29	est est quo	Dolorem et ut vero soluta sit. Amet magnam expedita libero. Dolor officiis aspernatur est deleniti qui aliquam perspiciatis. Error ut porro doloribus veritatis reprehenderit.	II semestre	3	3	NULL
+507	29	et possimus assumenda	Nobis magnam ut quia molestiae doloremque ea aut dicta. Ipsa tempore temporibus mollitia perferendis. Quod eos quo quaerat corporis dicta quia quas vero.	II semestre	3	11	NULL
+508	30	voluptatibus dicta odit	Nostrum et qui et ipsum cupiditate hic. Et cum autem libero nostrum repellendus reprehenderit in. Modi magnam modi hic.	I semestre	1	6	NULL
+511	30	saepe quo et	Voluptatem nobis voluptate qui officia laboriosam. Hic nemo id dolor deserunt. Explicabo ut eum perspiciatis aut fuga mollitia.	II semestre	1	7	NULL
+514	30	et iure natus	Maiores modi dolorem omnis est voluptate nobis. Tempora repellat voluptatibus consequatur. Dolore aperiam quia ullam dolor dolorum consequatur sit.	I semestre	2	11	NULL
+516	30	magnam saepe nihil	Rem eos nisi quia laudantium et. Quia quia quos id iste suscipit minima labore. Dignissimos tempore qui aut optio adipisci. Ratione illum voluptatem et velit temporibus.	II semestre	2	12	NULL
+517	30	ducimus eaque amet	Pariatur dolorem aut ipsum aut consequuntur assumenda. Vitae architecto non distinctio nemo. Velit velit consequuntur et nihil quasi non ducimus beatae. Voluptas quo ab doloremque assumenda ex.	II semestre	2	9	NULL
+519	31	distinctio numquam illum	Dolorem sed neque inventore accusamus voluptate quae ut nihil. Minus aspernatur est error quisquam non sed porro voluptatem. Sit molestiae et placeat.	I semestre	1	14	NULL
+521	31	et est porro	Itaque ducimus iste praesentium ut quae. Laborum ad et et et rerum fugiat. Sed enim reiciendis a accusamus molestiae esse porro.	I semestre	1	14	NULL
+524	31	et et saepe	Voluptas aliquam fuga vero provident fugiat corrupti. Laborum magni rerum officiis ex. Aspernatur sapiente qui inventore ea dignissimos dolores.	II semestre	1	12	NULL
+525	31	quia eos doloremque	Consequatur qui facilis eveniet tenetur quisquam iure nam. Distinctio nulla aut autem perspiciatis iste dignissimos harum. Qui velit aut cum id atque sapiente eveniet.	II semestre	1	14	NULL
+526	31	ipsa aliquid sapiente	Veritatis quasi dolorem repellat voluptatibus rem. Atque autem quis voluptatibus sed. Rerum nulla vel et dicta et necessitatibus aperiam exercitationem. Blanditiis suscipit vitae sunt.	II semestre	1	15	NULL
+527	31	est earum iure	Tempore dolorum ex cumque magni corrupti. Et vero quasi et dolorem eos. Accusantium quibusdam nobis voluptas aut debitis fugit magni est. Voluptatem autem natus nostrum excepturi et ratione aperiam.	I semestre	2	11	NULL
+530	31	rerum ullam officiis	Minima sit veniam omnis tempore ex cupiditate. Quisquam modi natus tempore doloremque ea et fugiat. Exercitationem qui velit quo sunt modi.	I semestre	2	10	NULL
+533	31	esse harum quaerat	Suscipit consectetur aliquam asperiores at impedit. Saepe repudiandae dolores et maxime omnis unde eligendi odit. Nulla molestiae nisi maiores dolore voluptas ut veniam. Voluptatem non cum nihil non.	II semestre	2	11	NULL
+534	31	nesciunt et ullam	Vero sint debitis magni doloremque exercitationem sapiente. Assumenda magnam voluptate qui numquam ex. Qui doloribus qui omnis ducimus id atque est. Quia sed quidem saepe eum vel eligendi sint ea.	II semestre	2	14	NULL
+535	31	rerum voluptatibus iusto	Doloribus ex iusto et perspiciatis harum voluptatem eligendi. Totam omnis accusantium eius eum sequi quas. Laboriosam distinctio voluptatibus officia.	II semestre	2	11	NULL
+536	32	culpa quis expedita	Possimus architecto animi nihil corrupti corporis facere. Consequatur odit est vel eum iste. Nihil ex iste quasi iusto.	I semestre	1	12	NULL
+537	32	aut enim nesciunt	Est vel qui cum dolor a. Consequatur soluta quia nisi molestiae. Dolor repudiandae ad adipisci ut.	I semestre	1	4	NULL
+541	32	pariatur at ducimus	Deleniti sunt non voluptatem sunt necessitatibus adipisci. Qui sit et repudiandae necessitatibus enim rerum eum. Est quos quidem sit quis esse commodi quibusdam. Ea et non rerum temporibus.	II semestre	1	4	NULL
+545	32	rerum vel voluptatem	Molestias impedit culpa facilis cumque odit possimus. Molestiae velit inventore debitis. Qui enim sit nemo ducimus excepturi delectus autem.	I semestre	2	12	NULL
+546	32	est eaque aut	Suscipit et ipsa et qui culpa voluptas exercitationem. Tempora iusto nihil quia possimus. Eos eos molestias molestias et quos. Dolores tenetur voluptatem sit voluptatem ipsum.	I semestre	2	9	NULL
+547	32	inventore praesentium voluptatem	Temporibus repudiandae sunt eligendi ut tempora. Numquam laboriosam et sed fugit nemo natus pariatur. Accusantium est consequuntur qui. In quidem iusto ex magnam optio sint beatae.	I semestre	2	12	NULL
+548	32	illum sit dolores	Quis vel et expedita. Molestiae ex ea facilis qui in. Praesentium ducimus voluptates quasi omnis sit. Consequatur repudiandae perferendis sapiente et quasi laborum.	I semestre	2	13	NULL
+550	32	distinctio labore omnis	Consequuntur magni quas dolores iure sint. Ut est rerum omnis nostrum eos rerum fugiat. Vel qui dolor ut dolores numquam velit sed.	II semestre	2	7	NULL
+553	32	repellat accusamus laudantium	Quis ab et magnam ex maiores maxime. Eos a natus et asperiores animi. Beatae explicabo nisi enim error explicabo ut. Libero provident vel explicabo tempore.	I semestre	3	9	NULL
+554	32	quidem voluptas est	Itaque cum et et debitis cupiditate esse impedit. Placeat repudiandae minus sit ut. Sunt debitis soluta non aut. Et porro minus rerum et in et.	I semestre	3	11	NULL
+556	32	quam qui ipsam	Corporis ipsa laborum vel impedit laboriosam. Aut placeat quod et accusantium odit. Delectus et aut suscipit illum sequi. Ut eos dolorum ea magnam iure. Cum quas fuga eius sit.	II semestre	3	5	NULL
+557	32	assumenda dolorum perspiciatis	Molestiae et eveniet est quibusdam explicabo. Aut id dignissimos qui quis quidem quod. Quidem omnis dolores fugiat facilis praesentium quis.	II semestre	3	11	NULL
+558	32	voluptate quos esse	Soluta laborum consequuntur consequuntur ea quod. Alias et voluptatem impedit corporis. Et ut est ipsum pariatur aspernatur. Iure ullam non nihil id sint nihil sed eligendi.	II semestre	3	13	NULL
+559	33	est aut qui	Et quod omnis consectetur et autem. Libero qui necessitatibus voluptate quidem ducimus et itaque. Maxime quia consequatur laboriosam quidem. Dolorum quia odit enim atque harum.	I semestre	1	10	NULL
+560	33	quibusdam nobis architecto	Soluta ut exercitationem magni. Aspernatur quasi illo voluptatem. Omnis dolorem et iusto aut numquam voluptatem corporis explicabo.	I semestre	1	4	NULL
+563	33	sed possimus expedita	Neque et nihil et enim. Minima accusamus aut illum quia. Non aperiam quo similique vel.	II semestre	1	14	NULL
+564	33	rerum reiciendis quam	Beatae eaque molestias consequatur ut. Dolor corporis laudantium ducimus sit non accusamus. Perferendis sint id ipsam vel illo in praesentium maiores. Sed consequatur voluptatem ullam est eligendi.	I semestre	2	3	NULL
+565	33	quam id atque	Perspiciatis porro dicta asperiores. Debitis ipsa blanditiis culpa. Aliquid nobis quod dicta vero ut corrupti necessitatibus. Perspiciatis alias adipisci quas voluptate ratione quia voluptatem.	I semestre	2	8	NULL
+567	33	suscipit velit labore	Voluptas explicabo necessitatibus sit sapiente animi accusantium rerum. Nihil praesentium quam eius saepe aliquid qui vel sed. Qui architecto aut hic temporibus amet saepe totam.	II semestre	2	3	NULL
+571	33	tempora nesciunt aut	Et libero unde fugiat consequuntur eius. Tempore sit voluptatem minima est et voluptate. Mollitia consequuntur fuga reiciendis est soluta aut.	I semestre	3	13	NULL
+572	33	sunt aut inventore	Earum rerum labore ipsa nulla omnis soluta vel. Et velit amet voluptatum enim quasi a impedit. Voluptatem provident qui labore excepturi ducimus. Vel dolorum necessitatibus est.	I semestre	3	4	NULL
+573	33	ipsa assumenda eligendi	Rerum beatae fugiat ipsum enim enim consequatur et. In qui magnam nobis ut exercitationem perferendis. Dolores molestias mollitia perferendis odio.	II semestre	3	15	NULL
+574	33	ab error incidunt	Et in ut in aut quis voluptas. Fuga saepe ullam est architecto placeat soluta. Alias est illum est voluptatem eos maxime. Eos est provident sunt dolorem earum. Ea autem iste aut est quidem sed vel.	II semestre	3	11	NULL
+575	33	et aut architecto	Sit ut culpa similique qui. Amet quia nobis et. Qui magni qui architecto ullam qui. Iusto nulla molestiae qui dolor quasi quos.	II semestre	3	8	NULL
+576	33	facere maiores iste	Sit at reiciendis vel repellat error et eum quisquam. Nihil ea sit ut assumenda neque maiores nihil. Atque facere id est ut repellat est aut.	II semestre	3	4	NULL
+579	34	dolor ab possimus	Quod officiis qui laboriosam suscipit. Quaerat unde non exercitationem eum quidem voluptatem. Cum vero facilis magnam culpa amet est cumque veritatis.	I semestre	1	15	NULL
+582	34	possimus dolorum ut	Aperiam inventore deleniti qui perferendis. Repudiandae animi perferendis rerum et ea. Repudiandae aperiam eligendi alias sed nesciunt.	II semestre	1	7	NULL
+587	34	laudantium animi dolorem	Omnis iusto unde molestias quia rerum quae id ipsam. Nihil facere aliquid esse quisquam magni placeat. Voluptatem eum dolor et numquam omnis ad delectus id.	I semestre	2	8	NULL
+588	34	commodi sapiente neque	Iusto quibusdam natus et numquam eligendi qui. Eum et est voluptatem sequi velit mollitia officia autem. Deleniti est est neque quasi corporis omnis.	I semestre	2	4	NULL
+590	34	modi sed earum	Nisi sunt animi iste sint similique error. Aut veniam aut vero dolor. Veritatis reprehenderit et quia sit. Sit perspiciatis et nihil aut iure at dolore.	II semestre	2	12	NULL
+593	34	adipisci non eius	Nostrum quis eius tenetur aliquam perspiciatis. Dolores quam quo nobis in sit. Nemo quia provident at recusandae.	I semestre	3	10	NULL
+596	34	culpa voluptas voluptatem	Deleniti sed dolorem dolorum tempora tenetur delectus. Molestiae illo voluptatibus quos quo dignissimos. Non explicabo cum vero quaerat est id quo omnis. Est beatae et deleniti.	I semestre	3	13	NULL
+597	34	ad molestiae necessitatibus	Quis praesentium deserunt nulla delectus at. Voluptates ipsum laboriosam modi quisquam recusandae sequi. Earum asperiores est et. Nulla quasi repudiandae quos.	II semestre	3	11	NULL
+599	34	enim sunt et	Ut tempore nihil assumenda architecto quis. Molestiae veritatis quasi officia. Autem deserunt ducimus commodi qui qui.	II semestre	3	8	NULL
+603	35	dolor ea voluptatem	Laudantium provident aperiam ex. Officiis vero nesciunt omnis corrupti voluptatem. Excepturi qui eos qui rerum facilis.	I semestre	1	5	NULL
+605	35	autem est maxime	Placeat tempore voluptas omnis enim sed necessitatibus velit. Cupiditate itaque consequatur ea.	II semestre	1	5	NULL
+611	35	itaque debitis ipsa	Ullam id illo ea atque. Omnis officiis harum quas dolorem libero. Dolorum nam atque et cum doloremque ad asperiores est.	II semestre	2	7	NULL
+612	35	non explicabo aut	Tenetur non non ut cupiditate. Eligendi iure ducimus tempora sequi harum quibusdam. Corrupti beatae sunt nostrum eius. Non mollitia eum harum est porro iure.	II semestre	2	14	NULL
+613	35	odio vel officiis	Eius provident magnam quia provident. Culpa alias voluptatem officiis iste. Labore minus quaerat aut error.	I semestre	3	8	NULL
+617	35	aspernatur consequuntur quaerat	In et saepe laborum ratione. Porro odit soluta corporis rerum molestias laboriosam esse. Illo repellat maiores deserunt nesciunt est quasi magni.	I semestre	3	7	NULL
+618	35	possimus voluptatem animi	Nam ut omnis laudantium aut molestias soluta debitis odio. Vero possimus veritatis assumenda sed natus in. Consectetur quas quo non delectus commodi quia.	II semestre	3	7	NULL
+619	35	accusamus et quidem	Qui est et aliquam. Accusantium neque amet eius maxime modi.	II semestre	3	14	NULL
+620	35	ut enim ut	Reprehenderit harum doloribus sapiente. Magnam iure debitis aut odio. Quibusdam sapiente est sit. Quae asperiores repellendus repudiandae veritatis et dolore.	II semestre	3	4	NULL
+622	36	aperiam ut suscipit	Dolorem et voluptatem a sed consequatur. Et adipisci alias ea ducimus voluptatem. Culpa est omnis vero. Enim nesciunt et ut at neque consectetur animi. Fugiat et atque voluptas eum dicta.	I semestre	1	11	NULL
+624	36	eaque vero sapiente	Et iste consectetur facere voluptas. Minus recusandae nobis quod culpa nihil dolores dolores. Quo nihil quae id quia incidunt praesentium deleniti.	I semestre	1	8	NULL
+627	36	similique veniam sit	Eaque porro vel sint ipsam. Fuga ut aperiam vitae natus ipsum ex unde. Blanditiis ut voluptatem officiis distinctio ea nemo quia. Harum reiciendis molestiae at neque minus.	II semestre	1	4	NULL
+629	36	dicta ducimus odit	Aut modi mollitia sunt nulla quia ut nobis. Beatae laudantium nesciunt at hic non ratione. Porro error aliquid harum blanditiis sed. Id eius eligendi vitae non.	I semestre	2	13	NULL
+630	36	eaque et at	Quia voluptatum dolore saepe omnis porro. Voluptatem odio repudiandae temporibus ratione reprehenderit. Repellat ea ut quod est laborum tempora in.	I semestre	2	8	NULL
+631	36	non porro soluta	Velit explicabo ut pariatur quia. Aut rerum dolorum quae quis. Aut doloremque est quisquam voluptatibus dolor dolorem sunt amet.	I semestre	2	6	NULL
+640	37	ut eius error	Cumque maiores voluptatibus molestiae doloremque dolor. Possimus culpa quia ducimus officiis pariatur minus beatae. Consectetur voluptas beatae et est minima. Aliquam quas laudantium eligendi sed.	II semestre	1	13	NULL
+645	37	sed alias magni	Id in voluptate omnis nobis dolorem. Unde quos corporis tenetur porro. Fuga temporibus molestiae eos deleniti non.	I semestre	2	3	NULL
+649	37	sapiente pariatur voluptates	Saepe minima itaque quam amet aperiam accusamus id. Quae possimus occaecati facilis corrupti accusamus aut. Accusantium eos dolore earum aspernatur aperiam non aperiam excepturi.	II semestre	2	13	NULL
+651	38	deleniti nesciunt amet	Similique commodi dolores dolorem qui facilis. Accusantium ipsam ipsum facilis nesciunt eos porro. Mollitia velit qui quis voluptatum corporis vel.	I semestre	1	10	NULL
+653	38	tempore quod eum	Incidunt nihil explicabo repudiandae. Et adipisci voluptatem in nihil ratione. Natus possimus autem corporis.	I semestre	1	11	NULL
+654	38	culpa fugit error	Occaecati quibusdam enim a dolores aliquam temporibus. Eos sit sed doloribus et sit unde ipsa. Perferendis aut ea totam laudantium. Neque repellendus magnam dolores nihil dolores.	II semestre	1	3	NULL
+655	38	et rerum iste	Quam aspernatur et molestias et vel dicta. Quas praesentium et fugiat vero eaque natus at. Incidunt rerum molestias rerum laboriosam. Iste voluptate ea ipsum eum eius repellat blanditiis.	II semestre	1	3	NULL
+659	38	eum beatae earum	Qui sit ab suscipit autem expedita veniam. Quas magnam est fuga aspernatur facilis aut. Eligendi non qui maiores eveniet eos nihil. Aut vitae ut et qui.	I semestre	2	11	NULL
+660	38	laboriosam dolorum aut	Dolores non soluta sunt accusantium et eos quod. Et ipsum corporis qui illo. Magni dignissimos nihil voluptas consectetur voluptatibus. Repudiandae recusandae optio occaecati voluptates.	I semestre	2	9	NULL
+661	38	laudantium nulla possimus	Porro vel inventore aut maiores modi. Magni architecto ullam doloremque quam porro. Omnis autem sint aliquid quam. Velit atque quae sit ex.	I semestre	2	9	NULL
+662	38	quia voluptatibus et	Quibusdam deleniti aut dolorem laborum sed reprehenderit placeat. Aut beatae vitae sed molestiae. Natus quidem pariatur officia natus qui molestias. Non ratione molestias reprehenderit libero.	II semestre	2	10	NULL
+666	38	impedit ducimus ipsum	Excepturi consectetur omnis quaerat est rerum. Atque eum rem perspiciatis. Tenetur quae officiis eum est nulla.	I semestre	3	7	NULL
+667	38	perspiciatis voluptates veniam	Dolorem placeat neque perferendis. Et dolores dolores impedit incidunt. Corrupti sed est et nam.	I semestre	3	11	NULL
+668	38	similique id non	Quibusdam corrupti labore fugiat est fuga. Laborum nostrum cupiditate delectus vitae error.	II semestre	3	13	NULL
+670	38	ipsa exercitationem aut	Itaque error a animi aperiam fuga omnis cumque. Dicta velit atque velit magni repellendus beatae. Ad quos nostrum pariatur ipsa nobis et ducimus. Sed qui libero consequatur.	II semestre	3	9	NULL
+672	39	incidunt et velit	Ullam voluptatibus sit magnam quod. Dolores eos sunt eos ut. Repellat eius eum molestiae qui sunt. Mollitia magni molestiae tempora maxime est ut.	I semestre	1	7	NULL
+673	39	est in officia	Nihil sed ratione perspiciatis facere dolorem deserunt non neque. Quo sunt explicabo sunt aut. Officia omnis atque quae.	I semestre	1	14	NULL
+675	39	quo qui reiciendis	Quaerat repudiandae totam omnis nihil eius excepturi recusandae vero. Deleniti omnis qui cupiditate nihil sequi. Error voluptatem saepe labore et nihil corrupti corporis.	II semestre	1	4	NULL
+676	39	amet qui quibusdam	Soluta ipsum dolorum nihil. Similique reiciendis deleniti explicabo. Repellat incidunt modi fugit voluptatem esse qui dignissimos. Est repudiandae aut cum aut.	II semestre	1	14	NULL
+678	39	et tempora perspiciatis	Enim ea asperiores ex nesciunt illo aut ea. Labore debitis error aut cum est.	II semestre	1	5	NULL
+680	39	asperiores eveniet maxime	Eaque harum officiis non eligendi quisquam. Voluptatum culpa facere enim doloribus. Porro dolores eum dicta et quasi ea.	I semestre	2	15	NULL
+681	39	et nobis corporis	Quae hic ipsum corporis numquam quibusdam facilis. Quidem sed sit sint voluptatem et at amet ut. Delectus qui eius error voluptas iste.	I semestre	2	10	NULL
+682	39	et in aspernatur	Quis suscipit eveniet ducimus ullam rem alias. Esse aliquam harum iusto. Qui qui veritatis similique mollitia voluptas.	II semestre	2	12	NULL
+683	39	hic inventore a	Deleniti officiis deleniti quae laboriosam est voluptatum omnis eos. Sed reprehenderit ut excepturi officiis. Error et nemo nulla.	II semestre	2	15	NULL
+684	39	accusamus culpa consequatur	Quod dolores illum mollitia fuga eos iure. Assumenda esse quod eum est dolores. Quia quia sed ut ea assumenda.	II semestre	2	5	NULL
+688	39	qui amet eligendi	Repellendus in nemo eum aliquam. Fuga et quia officia magnam nulla dolorem. A nihil officiis ut unde. Occaecati consequuntur vitae dolore laudantium dolores voluptas cupiditate.	I semestre	3	9	NULL
+692	39	ea quo itaque	Dolor numquam omnis qui aspernatur. Eum praesentium aut nulla eaque eos. Ea est et nobis illum nulla id.	II semestre	3	14	NULL
+697	40	vitae deleniti laboriosam	Totam maiores quaerat velit repellat. Quae cum eum nihil aut cumque odio. Repellat et minima dolorum deleniti quam eligendi sit sunt. Velit veritatis dolor aspernatur ea.	II semestre	1	4	NULL
+698	40	libero et sed	Natus dolores ipsam voluptas aut. Iure mollitia alias quod corporis. Dolores non ut aperiam illum officiis nihil laborum.	II semestre	1	6	NULL
+699	40	est aspernatur et	Odio recusandae magnam sunt omnis. Aut dolorem ratione ratione reprehenderit impedit. Ab omnis explicabo sint dolore autem cumque.	II semestre	1	11	NULL
+701	40	reprehenderit temporibus optio	Voluptas libero velit ab expedita error nam quod. Dolor cum eaque provident voluptatibus distinctio. Sit ut voluptas recusandae eum perspiciatis assumenda. Est eos nobis aut occaecati qui aliquid.	I semestre	2	5	NULL
+702	40	doloremque occaecati atque	Iure eos aperiam tempore dolores non enim. Eum dolorum atque magni excepturi sint dolorem porro. Vitae quasi est doloremque quia excepturi provident modi officiis.	I semestre	2	6	NULL
+703	40	qui qui molestiae	Enim enim dolorem laborum velit aut ducimus. Nesciunt modi possimus blanditiis nulla quia. Illo inventore ipsa soluta aperiam delectus cupiditate.	II semestre	2	8	NULL
+704	40	quo ut earum	Sed aut et voluptates non quia non. Voluptatum labore totam deserunt. Dolore dolore totam ut asperiores aliquid labore vel quidem.	II semestre	2	8	NULL
+705	40	quos delectus ut	Asperiores nulla similique veritatis soluta ea omnis. Eos facilis ipsum suscipit in itaque.	II semestre	2	10	NULL
+707	40	dicta quisquam perspiciatis	In blanditiis repellendus voluptatum minus odit aspernatur deserunt. Pariatur vel nam corporis nostrum. Ea recusandae voluptatem aperiam voluptates.	I semestre	3	6	NULL
+708	40	quia aliquam dolore	Sunt facere voluptas tempore. Architecto laboriosam culpa fuga quia aut inventore. Ratione fugiat eos repellat.	I semestre	3	10	NULL
+711	40	sit voluptas rem	Aliquid dolorum quia numquam minima. Omnis ipsum quis error. Magni omnis cupiditate non placeat quis dolores. Sed dolorem sed quos modi vero harum. Nihil dolorem tenetur qui dolores odio atque alias.	II semestre	3	12	NULL
+712	40	voluptas aliquid molestiae	Eveniet consequatur quia culpa porro. Quo ea sed voluptatem atque est id vitae quam. Ut dolores magni repellendus rerum eum ut dolorem cumque. Quis perferendis beatae nobis ut.	II semestre	3	12	NULL
+713	40	est deserunt expedita	Animi inventore similique non qui expedita ex. Iusto est nihil quia eum. Impedit velit blanditiis porro distinctio ipsum inventore.	II semestre	3	5	NULL
+714	40	qui voluptas illum	Est culpa consequatur eum est. Officiis iste sint et odit culpa a in. Laboriosam expedita distinctio delectus inventore autem.	II semestre	3	4	NULL
+717	41	magnam aut repellat	In rerum atque et repudiandae ut. Excepturi autem laboriosam magnam magnam quae et. Quo eveniet mollitia maxime magnam ipsam praesentium dolorem.	I semestre	1	8	NULL
+720	41	ut rerum maiores	Consequatur dolores possimus quis voluptatem et eaque. Aliquid ipsam alias dignissimos consequatur similique ab voluptas. Et vel mollitia numquam aliquid reprehenderit. Est eveniet sunt veritatis.	II semestre	1	8	NULL
+721	41	quis non est	Sit at maiores in at tempora quasi aut. Voluptas qui non nulla cupiditate eveniet veniam. Numquam quia nulla quo adipisci ut accusamus sed pariatur. Et earum qui molestias adipisci vel ipsa nostrum.	II semestre	1	3	NULL
+722	41	dolorem culpa pariatur	Voluptatum autem voluptatem dolorem minus. Repellendus id aut voluptas quo ab occaecati dolores. Reiciendis enim quis fugiat molestiae atque amet necessitatibus.	II semestre	1	3	NULL
+724	41	illo incidunt et	Repellendus quam minima ratione eligendi possimus animi suscipit quos. Dolorem ex doloribus optio quae quis nulla optio. Sint veniam ipsa occaecati unde qui possimus delectus.	I semestre	2	5	NULL
+725	41	doloribus nemo iure	Ea quae porro laudantium ut. Explicabo et assumenda excepturi. Ex ea necessitatibus aliquid delectus eius et voluptatem ratione. Consequatur saepe voluptate id ad asperiores molestiae quia.	I semestre	2	12	NULL
+726	41	aut cumque rerum	Enim provident rem dolores veniam cum. Odit tempora dolor qui. Voluptatem perferendis quia eligendi inventore omnis voluptatem corrupti. Exercitationem qui vitae nemo deserunt at corporis.	I semestre	2	14	NULL
+727	41	sed recusandae omnis	Quia assumenda placeat enim itaque est et temporibus. Corrupti pariatur dolor aut rerum voluptatem culpa. Corporis quidem rem aut. Impedit consequatur nobis voluptates tenetur est reiciendis facere.	II semestre	2	8	NULL
+728	41	sequi praesentium mollitia	Sint laboriosam excepturi alias. Voluptate molestiae et sunt commodi beatae. Et et accusamus accusamus ea hic sint recusandae.	II semestre	2	10	NULL
+729	41	qui quis quidem	Necessitatibus eaque soluta cupiditate sint vero exercitationem nihil. Dolore totam totam labore voluptatibus tempore. Quidem debitis in ut et quo autem non.	I semestre	3	5	NULL
+730	41	omnis libero nulla	Earum labore temporibus voluptatum quisquam magni. Qui sed et molestiae deleniti reprehenderit quaerat nulla.	I semestre	3	9	NULL
+731	41	neque odio corrupti	Optio velit excepturi iusto deleniti sit est. Non veniam et laboriosam et ut facilis. Voluptatum ex eos exercitationem iusto.	I semestre	3	5	NULL
+732	41	nostrum accusamus molestiae	Amet tenetur consectetur et et magni rerum aliquam. Mollitia vel pariatur ullam omnis debitis neque impedit. Corporis non blanditiis quaerat exercitationem.	II semestre	3	7	NULL
+734	41	ratione repellendus eveniet	At qui voluptate ea natus. Explicabo dicta incidunt iusto ea eos possimus illum deleniti. Doloremque laborum quae rerum. Illo eligendi quo perferendis impedit rerum.	II semestre	3	6	NULL
+738	42	saepe laudantium quia	In ut quasi culpa id sed. Doloribus error est necessitatibus nesciunt facilis. Modi necessitatibus voluptatem qui. Laudantium animi error et labore sint.	I semestre	1	14	NULL
+739	42	et vero aspernatur	Voluptatem sit incidunt numquam sed. Qui ipsam quia exercitationem rerum assumenda in et et. Dignissimos ipsa qui quia soluta est minima in.	I semestre	1	15	NULL
+742	42	blanditiis sit doloribus	Nesciunt est corporis omnis eligendi ea doloremque voluptates. Omnis earum quod vel veritatis esse. Sit consectetur explicabo illum rerum sequi ea dicta. Necessitatibus sint in totam quisquam quidem.	II semestre	1	14	NULL
+745	42	nihil consequatur voluptatem	Voluptas accusantium sint blanditiis sequi ea cumque dignissimos. Quia quam est alias omnis consectetur officiis. Eius veritatis deleniti fugit.	I semestre	2	4	NULL
+746	42	minus eum et	Fugiat et enim ullam qui odit in. Rem nihil vel repellendus eum voluptatibus vitae. Dolorem ut dolorem et laborum vitae et. Velit accusamus nesciunt vel eos suscipit.	I semestre	2	5	NULL
+747	42	non voluptatibus quia	Fugiat possimus placeat tenetur. Perferendis vel sed consequatur excepturi sit rerum. Ex eos consequatur qui veniam reprehenderit commodi.	II semestre	2	13	NULL
+749	42	aut ullam vero	Nam enim possimus eum non necessitatibus. Tenetur commodi dicta qui aut vero. Exercitationem culpa ab blanditiis optio impedit qui quam sapiente.	I semestre	3	8	NULL
+750	42	totam expedita vel	Ut magni fugit eaque sed. Necessitatibus ea aut quia ea illum harum quia est. At qui nam quia aperiam. Vitae natus sit vero blanditiis minima molestiae accusantium.	I semestre	3	14	NULL
+754	42	unde veritatis a	Iusto ab animi officia voluptatem possimus fuga officia. Placeat rerum voluptas aut et accusamus sed aut laudantium. Qui voluptatem qui eveniet repellat beatae nam.	II semestre	3	12	NULL
+757	43	illum est ea	Ducimus sint eveniet quam molestiae et. Quia blanditiis natus dolorum quisquam et a. Qui nobis ut illo culpa voluptatem. Voluptatem omnis voluptatibus et cupiditate illum quibusdam.	I semestre	1	11	NULL
+758	43	commodi esse voluptas	Perspiciatis sit eos dolorem voluptas in fuga laborum. Impedit sit velit laborum non eligendi ullam. Facilis voluptas voluptate in pariatur. Et quidem et neque neque.	I semestre	1	6	NULL
+760	43	cumque omnis ullam	Nisi illo porro et. Aliquid sint sed consequatur enim porro. Sapiente ab doloremque magni vero fugiat.	I semestre	1	3	NULL
+762	43	natus dolores mollitia	Rerum voluptatem earum voluptatum at molestiae sunt voluptates cumque. Sequi delectus omnis facere et amet et ex eum. Quidem quo voluptatibus labore non dolore.	II semestre	1	14	NULL
+763	43	aut et sed	Id sit vero incidunt deleniti adipisci qui. Nam est adipisci velit. Beatae id ut provident necessitatibus sint.	II semestre	1	3	NULL
+764	43	qui omnis sit	Eligendi quis voluptas ratione culpa a quam. Qui sunt autem et voluptates qui omnis nobis. Dolorem molestiae natus dolorem aliquid non alias nobis. Eveniet voluptas et provident optio omnis.	II semestre	1	7	NULL
+765	43	autem ea laboriosam	Et architecto ut fuga rerum. Earum ratione eos minus distinctio. Sit consequatur illo quia ad. Et soluta inventore a odio doloribus nesciunt asperiores.	I semestre	2	10	NULL
+766	43	et quasi enim	Et ipsa enim animi dolor. Dolore et dicta sunt. Fuga odit veritatis numquam earum est. Deserunt possimus eos sint quibusdam nobis autem.	I semestre	2	8	NULL
+767	43	ipsum fugiat modi	Libero adipisci non sit dignissimos et. Aut similique error ipsum. Accusantium illo consequatur vero ipsum pariatur est dolorem. Veniam nesciunt voluptatem alias id numquam.	I semestre	2	9	NULL
+768	43	omnis libero autem	Tempore voluptatibus magni temporibus. Quod maxime voluptas error ut. Nihil numquam iste quia doloribus sed et officia. Iusto enim quia sed quis.	I semestre	2	10	NULL
+769	43	quam quam non	Et illo laudantium id excepturi enim rerum vel. Corporis voluptatem similique facere. Iste deserunt itaque alias laborum praesentium. Ratione ut maxime vero inventore fuga itaque id autem.	II semestre	2	4	NULL
+770	43	aut praesentium corrupti	Nam soluta aut ut. Est sit eos soluta quaerat quo facilis sunt. Rem non quisquam repudiandae voluptatem. Ex aliquid consectetur asperiores ratione laudantium.	II semestre	2	4	NULL
+771	43	recusandae at deserunt	Earum ea quia aut architecto dolor commodi sit. Qui ad vel qui voluptatem ut hic voluptatem.	II semestre	2	7	NULL
+773	43	omnis voluptas molestias	Omnis quia nulla voluptates dolore. Eveniet facere quo vel quo maxime necessitatibus. Nisi accusantium omnis ut nulla aut. Quia est sapiente numquam necessitatibus sint.	I semestre	3	14	NULL
+774	43	velit quo impedit	Et maxime totam et quo. Dolores ut vitae perspiciatis et fugit. Itaque molestiae nihil est quo est dolores.	I semestre	3	7	NULL
+776	43	aut maxime non	Delectus quidem dolores architecto dolorem ut dicta perspiciatis dolor. Id et quasi incidunt. Vel libero quas doloribus quos. Assumenda sunt fugiat aut beatae incidunt quo sit.	II semestre	3	9	NULL
+780	44	provident aspernatur aliquid	Repudiandae sed nostrum nostrum perferendis qui. Totam velit ut odit officia. Earum veniam et et cumque voluptate temporibus.	I semestre	1	8	NULL
+781	44	magni in perferendis	Repudiandae et aut non et sit nesciunt est enim. Totam cumque eum velit odio aliquid. Repellendus nam eaque fuga eos maxime necessitatibus. Ut voluptates sit laboriosam.	I semestre	1	11	NULL
+786	44	non dolorem sequi	Non et sed ex et et laborum velit. Voluptas adipisci id rem dignissimos perferendis similique. Voluptas inventore explicabo labore mollitia.	II semestre	1	13	NULL
+789	44	placeat qui eaque	Et possimus totam ab impedit ut. Qui odio occaecati libero amet. Vel molestiae et dolorem provident autem quae neque. Repudiandae ut numquam at pariatur vero ipsam corrupti.	I semestre	2	6	NULL
+790	44	qui corrupti itaque	Tenetur et nisi vel ut enim beatae. Ratione qui quas quis voluptatum reiciendis saepe vel. Laboriosam qui debitis ut natus. Ipsa quia quo quo veritatis illum.	I semestre	2	6	NULL
+794	44	animi nihil aliquam	Dolor dolorem autem nemo quibusdam beatae voluptates sunt iure. Officiis quidem itaque ab quia blanditiis dolores sapiente. Quis cumque fuga magni placeat quaerat.	II semestre	2	12	NULL
+795	44	quaerat et corporis	Sunt asperiores consequatur sint mollitia porro. Culpa impedit et dolor eos facilis sunt.	II semestre	2	9	NULL
+796	44	suscipit ipsa et	Repellendus deserunt ea iusto. Ea odio magnam in earum sequi cum perspiciatis. Magnam minus aut est omnis. Qui quae tempore sint illum unde quo dignissimos in. Nam amet itaque quis commodi sunt.	II semestre	2	3	NULL
+804	45	molestiae vel incidunt	Mollitia sint similique eum libero sit at aut placeat. Enim sit nostrum qui est rem. Corporis dolor at distinctio ut non.	I semestre	2	8	NULL
+805	45	repellendus eligendi error	Occaecati et accusantium sit est sapiente. Hic nihil ad voluptates rerum aut inventore. Quia dolore consectetur aut delectus deserunt.	I semestre	2	7	NULL
+808	45	rerum et et	Eos consequatur rerum rerum in. Iure ullam beatae doloremque deleniti illo fugit et magni. Praesentium non vel ex architecto. Consequatur ullam voluptatem laudantium eaque magnam et error.	II semestre	2	4	NULL
+809	45	et odio corrupti	Rem ut sed excepturi sapiente laboriosam minus. Aspernatur voluptatum dolor eius aliquid sequi voluptatem fuga. Laudantium autem est quia.	II semestre	2	10	NULL
+810	45	sint explicabo quae	Excepturi iste corrupti molestiae consequatur similique et quis. Excepturi suscipit sit est aspernatur similique. Harum tenetur qui ipsam.	I semestre	3	12	NULL
+813	45	rerum dignissimos et	Optio minima tempora aut mollitia velit. Magni asperiores et beatae vel. Laborum quia omnis laborum beatae autem. Vero consequuntur ipsam voluptatibus ut blanditiis beatae est.	I semestre	3	15	NULL
+815	45	eos sint voluptas	Mollitia qui nemo nobis est voluptatibus deleniti ipsum. Velit aut rerum dignissimos voluptates. At distinctio deserunt non eum optio laborum et.	II semestre	3	9	NULL
+816	45	ea enim adipisci	Voluptates perferendis dolores ex aut. Voluptas cupiditate non doloribus. Dolores et sed sint omnis odit a eveniet reprehenderit. Et non cum molestias corrupti quam pariatur.	II semestre	3	13	NULL
+817	46	aperiam nostrum sint	Magni alias laborum earum sunt. Nemo dolor rerum quia recusandae.	I semestre	1	4	NULL
+820	46	rerum sed animi	Voluptas velit est quisquam. Et distinctio voluptatibus rerum et. Adipisci eos quas deleniti error veniam delectus.	I semestre	1	6	NULL
+823	46	quae enim aut	Dolores eos qui sed cum recusandae. Assumenda necessitatibus aut mollitia suscipit ut qui eveniet commodi. Sit expedita consequatur ex deleniti magnam ipsa.	II semestre	1	4	NULL
+825	46	aliquam similique ab	Odit alias odit quia. Vel vel omnis non sapiente. Saepe et eum modi reiciendis. Cum tempore quasi dolorum eum.	I semestre	2	4	NULL
+826	46	aspernatur fugiat reprehenderit	Dolore adipisci ab id et corrupti ut. Mollitia aliquid voluptatum corrupti. Est incidunt consectetur adipisci ea ipsa. Natus nobis ea eos earum at voluptas rerum.	I semestre	2	12	NULL
+828	46	voluptatem nobis iusto	Dicta dolores eius quidem enim. Similique illo odit harum placeat incidunt et. Necessitatibus enim suscipit commodi dolores. Occaecati sit natus id modi autem aut veniam.	II semestre	2	6	NULL
+832	46	consequatur autem molestiae	Qui aperiam a quasi asperiores error eaque animi ab. Debitis deleniti aliquid sit ullam molestias beatae nobis. A aut dolor error dolorum aut occaecati.	I semestre	3	3	NULL
+835	46	magnam quis dolore	Illo voluptatem ut consequuntur fugit ad. Et voluptatem qui doloremque sed sequi possimus harum. Doloremque earum consectetur et distinctio cupiditate eos.	II semestre	3	14	NULL
+836	46	ut accusantium dignissimos	Sed neque dolor dolorem possimus. Et nemo in in saepe voluptas sapiente ipsum. Accusamus ratione reprehenderit qui reiciendis et modi consequuntur. Est sunt illum ut architecto.	II semestre	3	7	NULL
+837	47	labore tempora odit	Rerum eaque id quas quas et sint tempora. Molestiae suscipit fugiat impedit tenetur in. Ipsa sit pariatur ipsa incidunt quae. Non maxime quo est et.	I semestre	1	11	NULL
+842	47	sunt rerum cum	Vero ut deleniti sed deleniti omnis. Magnam sed nemo omnis.	II semestre	1	5	NULL
+845	47	voluptatem ut magni	Aut nisi aspernatur asperiores est. Voluptas voluptatem facere numquam harum. Quia doloremque nihil totam quaerat architecto aliquam voluptas. Eos provident nobis eos.	II semestre	1	8	NULL
+848	47	neque architecto est	Aut nostrum modi aut dolorum. Beatae dicta vero culpa dolorum consequuntur ut. Molestiae nulla in ut distinctio. Quia dolore suscipit quae et qui.	I semestre	2	11	NULL
+851	47	error deserunt ea	Ut commodi aut enim tempore expedita quia rerum at. Maiores excepturi laboriosam molestiae alias velit nobis perferendis. Itaque quis quis quaerat velit quo. Suscipit dicta velit accusantium.	II semestre	2	8	NULL
+852	47	ea quia quas	Voluptatibus sunt enim nam fugit eaque. Labore ipsum doloremque vero totam voluptatem et. Pariatur ea a occaecati et.	I semestre	3	5	NULL
+854	47	ipsam deserunt dicta	Maiores et aut qui aut. Quos possimus commodi cumque non. Repellat nobis distinctio magnam.	I semestre	3	6	NULL
+855	47	exercitationem explicabo fuga	Odio libero unde dolores. Numquam vel et aut officiis. Nulla veniam sapiente nostrum aut hic. Eveniet incidunt reiciendis natus possimus.	II semestre	3	12	NULL
+856	47	voluptatem aliquam nam	Hic maiores libero voluptas adipisci. Numquam quia hic eveniet laborum. Distinctio ducimus vero et eum. Placeat doloribus maxime et eos qui nostrum.	II semestre	3	13	NULL
+857	47	non et ullam	Laboriosam alias eos alias unde consequatur accusamus. Expedita praesentium reiciendis modi molestiae veniam fugiat est. Delectus quisquam sit ab non possimus id architecto.	II semestre	3	7	NULL
+859	48	consequatur eius et	Accusamus est aliquid vel aut rerum. Sapiente hic voluptatibus non dolorum laborum iure beatae nam. Occaecati numquam corrupti voluptatem doloribus at tenetur.	I semestre	1	8	NULL
+863	48	tempora laboriosam iusto	Magni eveniet accusantium quis sit nihil sit. Veniam cumque itaque rerum ut architecto. Omnis aliquid fugit et nesciunt et sint qui. Beatae non ut debitis labore rerum quo totam.	I semestre	2	13	NULL
+867	48	rem sit error	Quos assumenda earum cumque ducimus. Sunt quisquam numquam voluptatem aperiam repellat consectetur rerum. Eos sed aut enim ducimus officiis possimus sit.	I semestre	2	8	NULL
+868	48	enim id deserunt	Quos earum quidem sed molestiae quam aspernatur cumque et. Cum eum in quam esse quasi harum illo voluptatem.	II semestre	2	12	NULL
+869	48	eos dolorem in	Vel beatae culpa deserunt possimus voluptas aut amet. Odio dolorum et et expedita id voluptas explicabo. Ratione facere velit est reiciendis labore modi.	II semestre	2	3	NULL
+874	48	vel veritatis recusandae	Dicta aut cumque architecto non molestias pariatur et vero. Facere nihil sit laborum error. Esse iste est nisi quia. Voluptatum in velit sit dignissimos qui qui quos consectetur.	I semestre	3	7	NULL
+880	49	eum pariatur quia	Eos beatae unde doloribus asperiores voluptatem non qui. Sequi maxime aut id quibusdam soluta. Harum magnam molestiae omnis neque aut odio. In dolore sit earum quisquam.	I semestre	1	3	NULL
+881	49	placeat iure quos	Quia laborum aut recusandae dolor et reprehenderit. Voluptas praesentium dignissimos numquam eos assumenda. Quod itaque amet minus quia assumenda. Molestiae quis ut quidem architecto.	II semestre	1	6	NULL
+882	49	harum doloremque eos	Eveniet tempora qui sunt alias. Dicta tempora velit qui soluta. Facere perspiciatis recusandae quasi reiciendis distinctio. Corrupti ut exercitationem dolores sit alias.	II semestre	1	10	NULL
+884	49	in optio voluptas	Nam voluptatibus aspernatur beatae reprehenderit et deleniti magni porro. Distinctio iusto adipisci et debitis voluptas rem assumenda. Aliquid sed unde libero odit.	I semestre	2	6	NULL
+886	49	voluptatem occaecati enim	Beatae veniam ea distinctio nesciunt adipisci vitae. Dolorem soluta est accusantium maiores unde. Dolor doloribus reiciendis corporis et.	I semestre	2	5	NULL
+889	49	explicabo quaerat ducimus	Consequuntur quisquam perferendis dolor ipsa voluptas. Consequatur reprehenderit nobis eligendi numquam aperiam et tempore repellat.	II semestre	2	11	NULL
+891	49	est in quasi	Ea in accusamus dolor exercitationem cumque aut distinctio. Et quod unde necessitatibus rem possimus dolorum. Corrupti placeat velit aut sit sint sed eum officiis.	II semestre	2	13	NULL
+893	50	dolorem blanditiis nemo	Sequi nisi ut atque facilis. Et aliquam earum dolores ipsum similique. Quas aliquam adipisci vitae provident quis. Veritatis ratione sed in minima libero.	I semestre	1	14	NULL
+895	50	quia mollitia voluptates	Praesentium rerum dignissimos neque quod dolorum. Sed consequatur fugit cumque et. Cum dolore adipisci aperiam asperiores. Dolorem tempore dolores mollitia ea maxime.	I semestre	1	3	NULL
+897	50	fugit qui voluptatem	Dicta in hic aut eveniet. Omnis voluptatem quia voluptatum quia. Eius minus architecto aut quis et dolor. Et ullam quia omnis dolorem.	II semestre	1	5	NULL
+900	50	temporibus tempore ipsam	Voluptatem dolorum aliquid et ut molestiae est sint. Incidunt vero maiores quia rerum sed ad. Ipsam unde corrupti saepe ea sed.	I semestre	2	13	NULL
+903	50	consequatur architecto eum	Reprehenderit molestiae dolorem eveniet et eos aut quasi. Dolorum nesciunt corrupti praesentium animi ab. Quia culpa exercitationem minus tenetur illum voluptate. Vero assumenda et et cumque officia.	I semestre	2	4	NULL
+904	50	accusantium et voluptates	Cum accusantium corporis aut. Hic quis aut repellat libero voluptate molestiae dolores. Deserunt earum aliquid excepturi omnis dolore consequuntur.	I semestre	2	6	NULL
+905	50	delectus omnis dolores	Magni voluptatem unde veritatis vero odio non. Modi harum velit alias impedit et. Eaque nostrum non numquam consequatur dolorem nobis. Sed est temporibus maxime laborum eum fugiat dolore.	II semestre	2	12	NULL
+907	50	voluptatem occaecati consectetur	Nemo natus consequatur ratione maiores incidunt id eius et. Maxime ut aliquid sequi voluptas debitis quis. Adipisci ut nobis voluptates ut. Tenetur esse voluptatum nostrum omnis et.	II semestre	2	7	NULL
+908	50	dolor occaecati tenetur	Non provident velit quidem architecto. Eius ipsam sunt consequuntur quo quae aliquid ut sint. Ut velit possimus quia iure sit.	II semestre	2	7	NULL
+909	51	sequi ut libero	Laborum facilis velit et ipsa. Recusandae doloremque ab enim aut. Quasi distinctio et saepe dolorem magnam.	I semestre	1	6	NULL
+910	51	est cum explicabo	Numquam magni et harum blanditiis repellat. Aliquam quis ex error molestiae eveniet ipsam. Velit tempore quo amet nulla sint est. Ut odio eos enim temporibus ut enim doloremque dolores.	I semestre	1	15	NULL
+912	51	est id hic	Necessitatibus et accusantium rerum itaque voluptatem sit. Rerum voluptatem fugiat voluptates cupiditate quisquam. Quas excepturi optio alias quis dolores.	I semestre	1	14	NULL
+913	51	deleniti et consectetur	Deleniti corrupti animi quos sint. Sunt assumenda magnam cumque excepturi cum est.	I semestre	1	10	NULL
+914	51	dolorem animi minus	Officia quam est consequatur ut voluptatem voluptatibus voluptas. Est error illum et et quidem voluptatem voluptatem. Ea molestias quae debitis labore.	II semestre	1	5	NULL
+915	51	in perferendis non	Aperiam quia dolorem et velit. Ex ipsa consequatur optio repellendus quia totam. Molestiae ullam quisquam aut pariatur ut dolorem.	II semestre	1	12	NULL
+916	51	rerum enim sunt	Ea ab distinctio et fuga et. Dolorem ea quibusdam deleniti et in numquam quos ipsam. Quia corporis ullam quasi modi. At est beatae ut similique recusandae saepe animi aut.	II semestre	1	8	NULL
+917	51	quia ipsum nisi	Officia corrupti vel consequatur doloremque. Inventore quidem at est porro. Praesentium ipsa iste dolor accusantium animi sit dolorum magnam.	II semestre	1	5	NULL
+918	51	eum eveniet modi	Itaque et soluta sapiente provident et nulla dignissimos eos. Nihil quam minima velit labore. Delectus est occaecati ut. Sed ipsum dolor voluptates mollitia perferendis voluptate quasi.	I semestre	2	7	NULL
+919	51	aut non eos	Quisquam saepe sapiente qui. Repellendus quisquam tempore velit asperiores velit. Labore architecto cum et accusamus facilis.	I semestre	2	7	NULL
+921	51	iste in animi	Vel exercitationem dolor numquam aliquid. Alias harum et nam rerum velit maxime perferendis. Et perspiciatis qui est explicabo. Qui illum aut ut illo.	I semestre	2	13	NULL
+922	51	saepe rerum iste	Quisquam voluptas aut blanditiis blanditiis consequuntur qui beatae. Quidem non illum sapiente numquam et a. Aut laborum sunt non sapiente qui suscipit rem. Ex dolor beatae voluptas et.	I semestre	2	7	NULL
+924	51	quia quia laboriosam	Sint facere officia iste pariatur. Itaque voluptatem ut voluptatem nesciunt. Aut aperiam ut totam voluptatem. Est doloremque inventore explicabo dolorum at impedit.	II semestre	2	10	NULL
+925	51	aut rerum provident	Optio et voluptas quia incidunt cupiditate ut voluptates atque. Quam voluptatem sed officiis voluptatem. Aut voluptates atque beatae expedita qui. Ad qui ex aut ut vitae similique eum.	II semestre	2	10	NULL
+926	51	voluptatibus ab sit	Odio similique recusandae porro minima ea nam est hic. Accusantium qui voluptates totam occaecati quidem. Explicabo nobis consequatur assumenda enim. Ut tempora porro et blanditiis hic voluptatum.	II semestre	2	3	NULL
+929	52	error odio enim	Et ullam necessitatibus velit laborum. Ducimus mollitia harum molestias possimus itaque dolorem. Dignissimos consectetur veritatis eum assumenda molestiae vel culpa qui.	I semestre	1	10	NULL
+930	52	quasi occaecati nulla	Quae cumque error libero itaque ipsa sit corrupti. Iste consequatur repellendus fugiat ipsa ex. Voluptatem numquam reiciendis quia qui incidunt consequatur. Assumenda quaerat veniam illum eos et.	I semestre	1	15	NULL
+931	52	dicta consectetur delectus	Et harum possimus voluptas et. Aperiam nihil quos eius voluptatem quo. Velit voluptates architecto quisquam.	II semestre	1	7	NULL
+932	52	iusto mollitia et	Voluptas in facere quas enim et non. Qui sint odit rerum quo in. Qui autem accusantium sit incidunt aut occaecati. Voluptatem commodi ipsa est blanditiis est non.	II semestre	1	10	NULL
+940	52	qui laboriosam molestiae	Placeat soluta voluptas eaque sed consectetur dolor. Aliquid omnis necessitatibus necessitatibus excepturi quia eum qui. Voluptatum autem maxime molestiae.	II semestre	2	14	NULL
+941	53	sint quam unde	Velit nihil minima eum molestiae blanditiis iste necessitatibus. Vero at atque et vel sapiente iure. Fugit est aliquam voluptas iusto.	I semestre	1	12	NULL
+942	53	nobis delectus veritatis	Ratione dolorum qui laudantium ut quos et eius. Eos quo porro quaerat aut. Et ad optio suscipit et quia pariatur.	I semestre	1	14	NULL
+946	53	harum illo consequatur	Praesentium debitis quia qui veniam. Ea maxime voluptas nihil. Nisi voluptas eveniet et aliquid. Cum ullam recusandae animi ut.	II semestre	1	11	NULL
+949	53	minus maiores porro	Veritatis temporibus molestiae repellat eos eligendi eos. Et omnis et est amet suscipit. Natus non vel qui aut voluptatibus omnis. Quam odit sint aut.	I semestre	2	11	NULL
+951	53	quo magni rem	Libero quam eos quia et odit. Rerum et voluptatem delectus tenetur eos.	II semestre	2	10	NULL
+952	53	aut ut nam	Corrupti enim dolor quia eveniet voluptatem. Qui repudiandae sapiente fugit quo.	II semestre	2	6	NULL
+953	53	qui nemo in	Sint laboriosam quia nemo eos in molestias impedit. Hic et maxime qui rerum deserunt dignissimos.	II semestre	2	11	NULL
+954	53	vero consequatur id	Officiis provident quo voluptatem sint sed. Sit corrupti enim corrupti quia dicta ea aut. Animi earum dolorem vero. Non aut rerum quia recusandae quo expedita.	II semestre	2	5	NULL
+955	53	sit eum libero	Tempora aut voluptas voluptatem quidem quae. Repellat repudiandae fugiat non ab iure suscipit. Saepe assumenda et tempora illum dolor. Nobis asperiores quod quia et facilis.	I semestre	3	7	NULL
+956	53	et est iure	Placeat voluptas est asperiores. Praesentium repellendus ut debitis. Et sit distinctio quidem.	I semestre	3	6	NULL
+957	53	blanditiis numquam quos	Labore et ut tempore enim dolorem. Totam earum commodi delectus quidem ratione. Laudantium ipsa voluptatem quam iusto ut. A vel veritatis consequuntur excepturi quaerat quia eveniet asperiores.	I semestre	3	11	NULL
+958	53	perferendis quos accusamus	Dolores et et quod inventore ad ullam qui. Unde consequatur aut hic sint sit architecto.	I semestre	3	5	NULL
+961	53	est maxime ipsam	Et placeat in consequatur placeat. Quia illo aliquid consequuntur iusto dignissimos facere.	II semestre	3	3	NULL
+963	54	est omnis possimus	Debitis delectus quia placeat iusto aut est vitae ut. Possimus nemo saepe rerum est vero numquam. Sed officia debitis cum et dolor quia quia.	I semestre	1	13	NULL
+964	54	consequatur est numquam	Vitae blanditiis corporis qui animi rerum omnis non. Sunt earum numquam rerum id voluptas odio facere. Est nobis autem aperiam quisquam architecto.	I semestre	1	13	NULL
+967	54	atque non numquam	Dolorem totam fuga porro consequatur voluptates. Labore nisi in eos minima pariatur. Excepturi vero qui ut velit pariatur dolorem. Magnam qui et assumenda voluptate officia.	II semestre	1	13	NULL
+968	54	praesentium facilis quo	In rerum nemo laudantium ducimus dolor ea. Ut culpa magnam consectetur aut velit officiis quam aut. Qui qui et laudantium maxime. Officia vel et est. Sit est magni numquam.	II semestre	1	10	NULL
+972	54	qui quasi consequatur	Voluptas eius soluta non porro nam. Voluptas at quae voluptatum distinctio. Ut voluptatem ad sed consequuntur et sed consequuntur ratione. Commodi repudiandae autem aut incidunt nihil.	I semestre	2	4	NULL
+973	54	quis aut voluptas	Ut dolor sit pariatur. Minima dolores provident voluptatum est laboriosam illum.	I semestre	2	9	NULL
+974	54	fuga pariatur excepturi	Incidunt corrupti maiores soluta soluta. Qui quidem totam nostrum. Perspiciatis sed velit debitis et a. Autem eum qui aperiam dolore eos sequi error.	II semestre	2	12	NULL
+977	54	quo ipsum ipsa	Porro et nemo animi aliquid dicta magnam. Autem ab aperiam saepe quia. Repellendus veritatis voluptatem animi et perferendis. Est dolores ipsa velit optio autem fugiat laboriosam.	II semestre	2	5	NULL
+979	55	voluptatem perferendis repellendus	Quod et et vero sed reiciendis aut. Voluptas incidunt est cupiditate cupiditate. Eius est dolorum quia ut. Totam exercitationem libero ipsam commodi nemo dolores ex.	I semestre	1	13	NULL
+982	55	eveniet rerum minima	Est at nulla quis eveniet esse. Omnis dignissimos qui debitis hic veritatis aut. Mollitia tempore eum ipsam animi est aliquid.	I semestre	1	12	NULL
+983	55	quidem sit aut	Officiis ea explicabo aut eum eum. Qui corporis soluta sit dolorem ullam. Ipsam corporis minima quis aut fuga. Eum consequatur minus totam officia necessitatibus maiores.	II semestre	1	9	NULL
+985	55	harum necessitatibus in	Fuga velit dolore molestias ipsum enim. Esse sint eum et tempora dignissimos. Est voluptas ut nobis recusandae ullam incidunt. Placeat amet aut dolorem molestias dolorem dolores molestias rem.	II semestre	1	10	NULL
+987	55	aspernatur nulla explicabo	Nihil ipsam veniam est vel earum quo quia quis. Iusto corrupti distinctio non velit nesciunt distinctio. Id debitis ullam aut deserunt laboriosam.	I semestre	2	9	NULL
+990	55	in in officiis	Accusamus maiores possimus modi modi ut ullam consectetur. Ducimus delectus tempora praesentium.	II semestre	2	6	NULL
+992	55	officiis quod aliquid	Esse eveniet accusantium laborum officiis qui. Et ab dolore doloribus architecto voluptas ut.	II semestre	2	6	NULL
+993	56	commodi laboriosam cumque	Sed at iusto rerum incidunt. Et modi molestias autem consequatur et eos perspiciatis inventore. Et assumenda et repellendus repellendus illum. Quia officiis qui ut sequi.	I semestre	1	12	NULL
+994	56	sit sint eveniet	Ullam libero velit aliquid fugit ut. Est qui et aut soluta. Voluptate aliquid mollitia quo animi. Ea quae corrupti velit et voluptatem. Hic voluptates laborum quasi adipisci.	I semestre	1	7	NULL
+995	56	amet quod repudiandae	Nihil omnis distinctio voluptas sequi quo fugiat aut. Magni nihil maxime tempora. Et omnis quia et.	I semestre	1	15	NULL
+996	56	voluptas dolores quos	Nihil consequatur perferendis iure reiciendis consequatur. A omnis fuga officia sequi error molestias. Aperiam commodi aspernatur quis veritatis. Et dolorem aut dolorem nulla.	I semestre	1	14	NULL
+997	56	veritatis et aliquam	Incidunt atque voluptas et voluptas voluptas. Aliquid quae quia rerum. Quia officia quia repellat minus natus dignissimos quia.	II semestre	1	3	NULL
+1000	56	error quam maiores	Ipsa et consequatur enim cumque nemo. Voluptatem sunt dicta voluptatum ex. Est quos sunt sed nihil quia repudiandae facere accusantium.	II semestre	1	4	NULL
+1002	56	omnis quas nam	Omnis amet consequatur ullam magnam. Debitis libero commodi facilis aut ab distinctio molestiae quia.	I semestre	2	3	NULL
+1003	56	ex aut sed	Quam et quisquam nostrum consectetur distinctio alias aliquid. Rerum necessitatibus aut fuga libero similique sit consequatur voluptate. Praesentium et aut quia enim qui autem.	I semestre	2	9	NULL
+1004	56	nulla corporis fugit	Neque odit et adipisci eius exercitationem a. Et quibusdam voluptate est quis. Quaerat nihil iste ex qui impedit voluptas. Consequuntur officia omnis eum et.	II semestre	2	6	NULL
+1005	56	et doloribus qui	Dolores at beatae eaque in. Voluptas error asperiores autem modi. Laborum aliquid rerum dolorem est nobis ullam. Quo voluptas unde ut ad eaque. Qui veritatis est id blanditiis optio ut.	II semestre	2	12	NULL
+1006	57	et eos optio	Molestiae fugit ullam deserunt ratione quia. Consequuntur tenetur et accusamus quia. Nihil ut dolorem architecto quia vitae suscipit.	I semestre	1	8	NULL
+1007	57	rerum deserunt eaque	Cum perspiciatis velit autem voluptates beatae. Voluptate ipsam pariatur excepturi. Et in cum nemo itaque ipsam deserunt voluptatem.	I semestre	1	11	NULL
+1008	57	iusto fuga et	Vel aperiam occaecati consequatur voluptas nesciunt. Nihil consequatur optio ut cum. Ratione rerum maiores aut expedita alias. Possimus tenetur qui ea illum voluptatum.	I semestre	1	4	NULL
+1010	57	unde odit dolores	Nemo assumenda eum sed et eum ipsam. Voluptas dolores provident deserunt.	II semestre	1	6	NULL
+1012	57	corrupti enim dicta	Tempora inventore similique veritatis laboriosam illum eos. Facere odio libero cum vel. Fugit rerum quia aliquid sit ad molestiae. Ipsa quis odit at est et necessitatibus.	II semestre	1	8	NULL
+1014	57	vero sit eos	Placeat non quisquam dolore. Voluptas laborum qui amet omnis beatae. Quos aut quia minima et nihil.	I semestre	2	6	NULL
+1015	57	nam ratione officiis	Nesciunt quaerat laborum inventore quaerat sit. Impedit sed eveniet et quia recusandae officia. Tempora et sed vel repellat.	I semestre	2	11	NULL
+1016	57	facilis pariatur qui	Dolores unde ex suscipit sint quia. A debitis dolore voluptatem consequuntur. Ut voluptate sapiente qui voluptas.	I semestre	2	6	NULL
+1018	57	distinctio ullam aspernatur	Maiores cum quis sint delectus sed. Saepe tempora excepturi recusandae. Debitis nemo corrupti eum magni at consequatur.	II semestre	2	12	NULL
+1019	57	unde hic sunt	Assumenda voluptates optio consequatur. Minima minus maxime fuga. Et ullam facere soluta.	II semestre	2	5	NULL
+1020	57	quasi fugit est	Necessitatibus id culpa possimus quia iusto reiciendis. Qui dolor omnis neque. Velit unde quia qui quia quos omnis. Cumque eos accusamus blanditiis asperiores.	II semestre	2	12	NULL
+1021	58	nobis aut voluptas	Omnis et omnis est velit laborum deserunt dolor. Sunt commodi iste aut est quod in illum. Mollitia sunt nostrum ut tempore dolore nihil voluptas.	I semestre	1	12	NULL
+1022	58	autem aut occaecati	Libero voluptas ex non alias ea sequi. Quis aut ut eum odit. Sequi nihil sed nihil amet sit sed. Perspiciatis veritatis ducimus accusamus sit ipsa facere consequuntur.	I semestre	1	10	NULL
+1023	58	perspiciatis magnam dolores	Commodi minima ex voluptates. Aut nesciunt provident in ut deserunt et rerum.	I semestre	1	10	NULL
+1026	58	soluta soluta aspernatur	Perspiciatis explicabo aliquid omnis soluta aut corporis aliquid ullam. Veritatis ad velit est ad asperiores magnam consequatur.	I semestre	2	10	NULL
+1028	58	qui ipsam sed	Doloremque nihil quo nihil. Soluta soluta doloremque nam voluptate reiciendis. Suscipit ea saepe minus aliquam. Sapiente ut repellendus autem possimus eum explicabo laborum in.	I semestre	2	3	NULL
+1031	58	ratione autem natus	Sed nisi et sequi magni sit eos cupiditate. Sunt aut dolorem impedit. Exercitationem in temporibus et nesciunt beatae et et.	II semestre	2	6	NULL
+1033	58	a dolorem voluptas	Est qui quo nam occaecati. In mollitia maxime officiis earum rerum. Debitis vel omnis beatae.	I semestre	3	6	NULL
+1034	58	nesciunt voluptas deleniti	Eaque sit cupiditate et similique iure corporis corporis. Sapiente voluptas tenetur tempora iusto unde atque id. Quam et eos officiis ut illum. Quod debitis aut eos.	I semestre	3	10	NULL
+1036	58	perferendis nemo porro	Eos id harum molestiae perspiciatis error ipsum consequatur. Ut non assumenda earum quae. Voluptatem ad possimus eius qui deleniti. Quae officia officia in architecto autem.	II semestre	3	7	NULL
+1037	58	veniam unde laborum	Praesentium dignissimos laborum pariatur assumenda vitae esse voluptates nostrum. Sequi consequatur velit deleniti commodi rerum tenetur repellat. Magnam ut quas asperiores aperiam.	II semestre	3	13	NULL
+1041	59	at dolorem temporibus	Ea excepturi placeat dignissimos quia non ut. Quo qui ut rem accusantium praesentium. Cumque at eligendi minima voluptatem. Autem est aut assumenda nihil rerum. Accusamus sunt tempora aut blanditiis.	I semestre	1	11	NULL
+1042	59	doloribus iusto quia	At quisquam sapiente et voluptatem rerum autem. Ipsam est id voluptatibus delectus suscipit. Impedit blanditiis mollitia fuga unde odio nobis.	I semestre	1	13	NULL
+1045	59	est et in	Qui sequi numquam nam voluptatem. Eligendi repellat at quia asperiores. Vitae rerum aut voluptates qui totam occaecati sed.	II semestre	1	15	NULL
+1046	59	aliquid fugiat laboriosam	Rerum maxime atque provident nisi aliquam atque excepturi. Soluta non atque omnis dolores repellendus ipsum.	I semestre	2	10	NULL
+1047	59	est consequuntur qui	Ut aut dignissimos tenetur consequatur voluptatem atque placeat. Alias sed qui non facilis fugit corporis mollitia qui. Vitae atque eaque error in eligendi mollitia possimus.	I semestre	2	7	NULL
+1049	59	dolore ut ipsa	Ratione totam qui quos asperiores. Quia rerum molestiae iure. Odit debitis fugiat velit quis et.	II semestre	2	7	NULL
+1052	59	ut sint qui	Voluptatem occaecati unde id officiis. Aliquam vel est asperiores porro atque eum omnis. Odit quia eaque fuga et temporibus.	I semestre	3	12	NULL
+1056	60	numquam aspernatur nesciunt	Autem facilis non facilis et tempore esse doloremque. Earum rerum nihil necessitatibus et error. Eos ut esse officia occaecati.	I semestre	1	14	NULL
+1057	60	nihil ipsa et	Id molestiae maxime consectetur sit nam voluptatum laudantium. Id modi impedit quidem asperiores quisquam. Sit odio in autem et doloribus. Vel quis iste ad hic est minima et.	I semestre	1	13	NULL
+1060	60	labore rerum deleniti	Et sed pariatur veritatis dolorem et. Ab esse quia ipsum. Aperiam delectus accusantium fugit ut. Officia a qui corrupti facere.	II semestre	1	11	NULL
+1064	60	labore necessitatibus explicabo	Animi velit ut cumque soluta architecto mollitia. Voluptatem ab optio eveniet magnam. Quae incidunt accusamus alias eum impedit. Incidunt non rerum nesciunt vel.	I semestre	2	10	NULL
+1066	60	sit omnis sit	Similique et provident fuga. Non vel aut repellendus fugit qui cum. Cum voluptatem vero quasi asperiores nihil velit. Porro eaque vero aliquid nemo id qui.	II semestre	2	8	NULL
+1067	60	et deleniti hic	Fugiat modi harum perferendis atque. Soluta magnam illum rem. Accusamus est voluptas aperiam eum.	II semestre	2	10	NULL
+1068	60	quisquam error aut	Voluptate sit placeat sint enim. Ab qui perferendis occaecati magni et. Neque rerum itaque eligendi quae animi qui. Et laboriosam sint quis omnis.	II semestre	2	13	NULL
+1071	60	fugit quis rerum	Eum excepturi nobis cupiditate impedit enim laborum consequatur. Vel et iusto amet totam hic nemo. Minima id qui et sit libero. Occaecati nisi voluptatem eveniet sint error alias perspiciatis at.	I semestre	3	11	NULL
+1072	60	eius provident sapiente	Eos itaque voluptas sunt consequuntur et. Quidem in autem unde aut. Velit nesciunt laboriosam debitis nesciunt facilis assumenda. Et ea dolore eum. Qui sit fugiat recusandae eius quia.	I semestre	3	12	NULL
+1074	60	ut quo ducimus	Facilis in iure ut dolorem quaerat. Natus quia velit eum rerum voluptatibus omnis. Magnam nobis aut repudiandae quis dolore repellat nisi.	II semestre	3	11	NULL
+1075	60	et occaecati eius	Ut quibusdam expedita ex perferendis vero aut. Accusamus distinctio totam quos dolore voluptatem. Tempora modi sint aut pariatur.	II semestre	3	13	NULL
+1078	61	voluptas consequatur sit	Quo consequuntur voluptatem neque et necessitatibus dolor rem. Velit quis qui velit exercitationem est. Ex labore recusandae consequatur debitis voluptatem. Dignissimos doloribus et aliquid aut hic.	I semestre	1	10	NULL
+1079	61	enim quae quos	Et aut voluptatem sit ad sed nam pariatur velit. Qui veritatis nesciunt blanditiis natus quia.	I semestre	1	13	NULL
+1084	61	voluptatem sed reprehenderit	Nostrum est dolorem sed id. Praesentium ratione repellendus quia aut quod numquam. Quae nihil odio molestiae vero officiis. Consequuntur dignissimos minus dolorem harum in corrupti sit.	II semestre	1	10	NULL
+1086	61	omnis libero corrupti	Magnam non expedita est reprehenderit. Et error libero et consequatur et. Aut veniam dolores earum est. Voluptatem culpa sed soluta dolor.	I semestre	2	7	NULL
+1090	61	ea eos dolor	Sed dolores soluta dolore. Ad repudiandae tempore dolor doloremque voluptatum delectus deleniti. Autem magni porro atque id commodi earum.	II semestre	2	13	NULL
+1092	62	libero eius cum	Fugiat tenetur repellat expedita. Voluptatem qui est nesciunt voluptatum vel. Ab natus in in quaerat sint.	I semestre	1	6	NULL
+1094	62	excepturi vero ad	Fugiat alias ex harum voluptas. Beatae quisquam aut ut ipsum natus sit. Sequi est tenetur cum et et.	I semestre	1	10	NULL
+1097	62	velit dicta voluptatem	Dolor aliquid rem excepturi et vitae quo ipsum assumenda. Eos modi quia blanditiis quam. Corrupti aperiam et nesciunt animi sint ut porro. Quia sit laudantium dolores quo.	I semestre	2	5	NULL
+1098	62	voluptatem repudiandae rerum	Ut fugiat nemo corporis omnis sequi expedita aliquid. Eum tempore eos quia rerum et debitis. Quia et mollitia facilis corrupti. Sed fugit et nobis impedit.	I semestre	2	15	NULL
+1100	62	fugiat animi fugiat	Temporibus totam commodi deleniti qui repellendus. Voluptas voluptatem unde quibusdam optio quis provident sequi. Numquam earum aut ipsa fugiat.	II semestre	2	9	NULL
+1103	63	ducimus voluptatibus asperiores	Dolorem enim totam non cupiditate molestiae consequatur aut. Nobis quibusdam consectetur est sed qui repellendus et et.	I semestre	1	7	NULL
+1105	63	porro suscipit incidunt	Corporis incidunt qui tenetur aut. Qui occaecati nemo culpa maxime. Aut illo omnis ipsa sit fugiat qui vero ut. Soluta at aliquam necessitatibus qui et alias voluptatem sed.	I semestre	1	3	NULL
+1106	63	nobis vitae reprehenderit	Autem explicabo quia voluptates esse dolores id vero. Animi fuga ducimus fugiat sit quis eum ratione. Placeat dicta quia beatae suscipit. Labore adipisci optio et rerum.	II semestre	1	6	NULL
+1108	63	quidem sunt beatae	Dolorem eligendi voluptas at quis saepe nemo. Aperiam aut qui minus repudiandae. Necessitatibus ut perspiciatis non iusto vel consequatur recusandae. Omnis harum aut necessitatibus.	II semestre	1	5	NULL
+1109	63	voluptatem vel deleniti	Rerum maiores eos qui quidem porro. Et unde nobis mollitia laudantium laborum. Occaecati officiis facere dolorum quo et.	I semestre	2	3	NULL
+1110	63	enim voluptate perferendis	Vero vel aut consequatur deleniti cum ea. Facilis est ut dolores rem modi cupiditate itaque ea. Illum necessitatibus minima eius magnam cum aut.	I semestre	2	15	NULL
+1111	63	incidunt est veniam	Porro quas quam omnis aut odit. Quasi sed rerum aut eos. Architecto sed ipsum laborum non id sed. Et magnam culpa distinctio esse est laborum excepturi.	I semestre	2	10	NULL
+1119	64	aut debitis nesciunt	Porro a quo deserunt qui. Ipsum delectus qui harum et perferendis qui. Harum nostrum delectus ipsam rerum.	II semestre	1	14	NULL
+1122	64	ex perspiciatis blanditiis	Omnis aut aspernatur nulla sint. Cupiditate quae et ex est quis rem sunt voluptas. Voluptatem nobis perferendis pariatur voluptatem incidunt.	I semestre	2	12	NULL
+1123	64	deserunt enim non	Corrupti ut sit iure in sapiente. Qui et doloribus ut nostrum. Earum minus quam autem est pariatur aperiam ab.	I semestre	2	6	NULL
+1128	64	accusamus aut ipsum	Libero esse cumque ex pariatur sint qui. Amet officia omnis praesentium rerum aperiam. Magnam saepe delectus omnis et fuga accusantium. Ut totam dolore eum et minima. Culpa quis illum aut.	II semestre	2	7	NULL
+1129	65	rerum dolor quia	Rem magnam facere sed sed amet in. Dolores numquam minima magni non iure.	I semestre	1	10	NULL
+1134	65	ullam ducimus architecto	Corrupti vitae sequi aperiam quas. Distinctio est quisquam pariatur doloremque. Quidem corporis et non laborum et qui. At nobis dolorem totam tempora velit.	I semestre	2	15	NULL
+1137	65	ut qui reiciendis	Recusandae non dolor in illum voluptatem. Voluptates quasi aliquam reiciendis laborum ut sunt a. Sapiente voluptatibus impedit dolorem fuga vitae veniam. Fuga dignissimos incidunt ut eligendi.	I semestre	2	14	NULL
+1140	65	itaque blanditiis sunt	A et est consequatur voluptas doloremque. Id harum error voluptate quia consequatur et fuga minus. Sed dicta et quidem dignissimos cum occaecati.	II semestre	2	8	NULL
+1142	66	quidem deleniti omnis	Perspiciatis est quo architecto omnis qui. Id repellat consequatur velit corrupti. Voluptatem est saepe nihil repudiandae corporis corrupti repellat.	I semestre	1	10	NULL
+1143	66	ex quaerat commodi	Et ea odit possimus deserunt. Fugit incidunt repellat a corporis ut. Vel pariatur perferendis et sed optio. Quia dolores ullam animi perferendis.	I semestre	1	13	NULL
+1144	66	tempore voluptates eaque	Cupiditate ratione sapiente porro libero. Et et enim repellat commodi. Ullam sit eum soluta eos exercitationem ad aut. Eum minima aliquam aut atque et molestias quis.	I semestre	1	9	NULL
+1145	66	natus iste fugit	Omnis incidunt soluta eos saepe alias impedit. Est aut molestiae quo earum illum quia dolore. Non deserunt quisquam qui et. Nobis quis qui velit nulla dolor. Dolorum ad hic eaque vel.	II semestre	1	8	NULL
+1146	66	omnis quibusdam et	Non eum iste id voluptas sit qui blanditiis labore. Dolores ipsum sunt at. Reprehenderit ipsum magni consequatur itaque et perferendis. Et quis harum doloribus quasi iste hic iste.	II semestre	1	15	NULL
+1149	66	sed facilis eos	Provident quasi omnis exercitationem. Corporis dolore vel ab consequatur aut quasi. Saepe voluptatum quam animi. Sit impedit nostrum deleniti quas.	I semestre	2	4	NULL
+1151	66	voluptatem culpa animi	Quis numquam eius cupiditate aut. Amet hic assumenda id temporibus. Culpa magnam sed modi et mollitia. Nesciunt sint similique distinctio quia vero aliquam minus.	II semestre	2	10	NULL
+1152	66	corporis harum maxime	Qui esse sapiente tempora odio aut dolor. Et aliquid cum rem et ut voluptatem qui.	II semestre	2	11	NULL
+1153	66	eos dolorum rerum	Eius unde nostrum culpa optio. Expedita est quia quos esse autem nostrum voluptates. Ea quis voluptate odit reiciendis velit iure.	I semestre	3	6	NULL
+1155	66	esse incidunt aut	Quis maiores soluta et facere veniam architecto repellat perferendis. Et laboriosam sint totam quo nisi dolores minus.	I semestre	3	7	NULL
+1160	67	quos pariatur aliquid	Deleniti veniam perspiciatis eius ut mollitia. Quod nostrum adipisci aut qui. Voluptas id eos eveniet sint in. Adipisci delectus perspiciatis ut eos.	I semestre	1	12	NULL
+1161	67	culpa nulla aut	Maxime deserunt dolor dolores. Esse voluptatem rem placeat eum nihil. Magnam qui reiciendis quo rerum minus placeat dolorum. Omnis autem ipsum nobis deleniti.	I semestre	1	13	NULL
+1166	67	et deserunt vitae	At mollitia aut in ut. Culpa sit sit aut consequatur corporis nihil eos. In quaerat unde voluptatem autem est ducimus. Dignissimos sint rem est laudantium est eum.	II semestre	1	11	NULL
+1170	67	dolores dolor voluptas	Ut sapiente qui ut at ut quia corrupti. Quia ut et est qui et. Doloribus velit sequi laborum laboriosam omnis.	I semestre	2	15	NULL
+1173	67	consequatur aperiam illo	Quas adipisci animi suscipit quae. In id qui aut atque. Reprehenderit accusamus voluptate vitae est est voluptatem. Veritatis laborum aspernatur qui ea.	II semestre	2	12	NULL
+1175	67	consequatur in ratione	Alias rem quas eaque autem optio quis autem. Aut consequatur ratione impedit rerum. Enim ut nulla officiis porro minima dolorem. Pariatur qui sapiente labore et ut.	I semestre	3	11	NULL
+1176	67	accusantium aut dicta	Recusandae aut in expedita ea aut saepe aut omnis. Eius vitae similique quia enim et qui est architecto. Voluptatem velit aspernatur nihil ex ab.	I semestre	3	12	NULL
+1177	67	iure alias at	Non voluptas beatae nesciunt esse. Voluptas eius ea minus sit aspernatur ut dolor perferendis. Quaerat eos sapiente et eveniet numquam laborum.	I semestre	3	12	NULL
+1178	67	quia error voluptates	Quo cum atque suscipit aliquam. Hic et odio voluptatem porro recusandae.	II semestre	3	11	NULL
+1180	67	quas est repellat	Sit corrupti et sit enim. Minima voluptas autem dignissimos et maxime. Consequatur eos sint perspiciatis consequatur perferendis velit earum.	II semestre	3	14	NULL
+1182	68	alias explicabo amet	Voluptatem autem et ipsum suscipit. Quisquam quam debitis deserunt labore velit. Nam quia aut sed qui.	I semestre	1	6	NULL
+1183	68	at exercitationem libero	Nam sunt sit aut a aut voluptas. Laborum ipsa ipsam error minima et. Alias rerum consectetur natus quibusdam similique praesentium. Enim animi dolores magni reprehenderit in adipisci neque.	I semestre	1	3	NULL
+1184	68	molestias animi vel	Consequatur rerum nam qui nihil. Iste quibusdam atque eum et. Rerum voluptatem dolores dolores dolor reiciendis ducimus nemo. Consectetur dolorem consequatur saepe dicta ipsam aspernatur.	I semestre	1	6	NULL
+1185	68	cum aut modi	Consequuntur vel cum ullam tempore magnam voluptatem. Eos eum rerum quasi aspernatur. Omnis ut rem mollitia ut beatae. Ratione nostrum hic rerum eos quo nulla sapiente ab.	II semestre	1	4	NULL
+1186	68	ut aliquam nostrum	Ab mollitia aut exercitationem quia ea sit culpa. Nihil corporis officia modi. Harum blanditiis aut quasi sed sit. Delectus dolores occaecati et magnam. Tenetur placeat et et nemo.	II semestre	1	8	NULL
+1189	68	earum magnam atque	Suscipit eum amet sit placeat sed vel nemo. Eos enim illo ducimus molestiae velit. Illum asperiores eum totam et dignissimos possimus laborum.	I semestre	2	5	NULL
+1191	68	eum et saepe	Earum dolore veritatis et qui dicta tenetur. Tenetur exercitationem excepturi earum ullam. Harum laboriosam dignissimos at modi. Doloremque occaecati doloribus quod ut voluptate.	II semestre	2	11	NULL
+1192	68	ipsa quas quia	Occaecati incidunt rerum nisi sint laboriosam nisi. Consequuntur qui est et nemo. Est veniam accusantium voluptas fugit. Ut itaque alias aut fugiat aut mollitia nemo.	II semestre	2	11	NULL
+1193	68	non repellendus vero	Quibusdam cumque esse ut natus. Quibusdam magni sequi delectus inventore maxime enim. Sed aut sapiente in officia sed.	II semestre	2	3	NULL
+1195	69	facilis magnam rem	Voluptate porro est amet dolorem. Sint odit consequatur at quas doloremque. Dignissimos harum beatae omnis voluptatem magni numquam accusamus.	I semestre	1	12	NULL
+1197	69	voluptas dicta qui	Est autem culpa tempora. Autem dolorem voluptatem saepe similique facere. Ut nisi est consequuntur rerum alias laudantium.	I semestre	1	6	NULL
+1198	69	necessitatibus consequatur aperiam	Dolore voluptas repudiandae nulla quidem voluptatem aut. Quia pariatur aut ut eum.	II semestre	1	13	NULL
+1199	69	et qui cum	Perferendis repellendus aut eum. Rerum iure occaecati eveniet vitae aperiam aperiam dignissimos ab. Aut totam qui consequatur aliquam vero. Aliquam porro qui et quis.	II semestre	1	3	NULL
+1202	69	velit et odit	Dolor sed doloribus laudantium optio. Assumenda mollitia et laudantium in dolor in. Deserunt quia sunt molestiae eius repellat dicta. Minus quia odit iure magni.	I semestre	2	7	NULL
+1204	69	quos aut dolore	Deleniti placeat ut unde molestias deleniti totam tempora. Consequuntur tenetur quas aperiam eveniet repudiandae. Recusandae alias distinctio autem et nihil.	I semestre	2	9	NULL
+1206	69	sit officiis harum	Facilis vitae qui facilis dolores deleniti. Aperiam numquam debitis aspernatur numquam cum pariatur. Quo blanditiis et sed omnis necessitatibus nihil. Eaque at voluptatem nobis velit aut architecto.	II semestre	2	3	NULL
+1207	69	magnam voluptatem harum	Nulla nemo aut eligendi ducimus voluptates. Eos ut earum vitae dolores est assumenda. Inventore voluptatem doloribus rerum quia. Quo ex magni perferendis id saepe qui itaque aperiam.	II semestre	2	11	NULL
+1208	69	rerum et qui	Minus minus tenetur commodi cum possimus veniam. Quis doloremque voluptatem nam in qui error quaerat. Inventore est in numquam aliquam minima aut.	II semestre	2	15	NULL
+1209	69	ex totam sint	Id exercitationem in omnis dolorum quam. Qui et ut cum maxime et. Quia labore nisi veniam temporibus optio omnis laudantium natus. Maxime qui in fugiat amet voluptatem eos.	I semestre	3	12	NULL
+1210	69	autem quo sed	Accusamus laudantium voluptatem maxime ut eius asperiores a cupiditate. Esse laudantium eveniet vel laborum sunt est facere. Numquam et corporis sunt aut.	I semestre	3	8	NULL
+1211	69	dolor autem maxime	Ut et quos quas eos et amet aut. Laborum dolorum illo quos saepe impedit ut ducimus. Dignissimos aut repudiandae sunt optio odit sapiente sit. Rerum aliquam accusantium omnis.	I semestre	3	6	NULL
+1213	69	et eos adipisci	Dolores a dolore corporis omnis qui quisquam fugiat. Doloribus expedita et dolor et quasi voluptas. Temporibus est quia ipsam consectetur porro at qui.	II semestre	3	3	NULL
+1216	69	nihil occaecati minus	Autem totam deserunt voluptas. Cumque vel quos asperiores temporibus est praesentium sit ut. Placeat dolorem est est eos adipisci voluptas quaerat.	II semestre	3	8	NULL
+1220	70	minus consequatur culpa	Voluptate velit autem atque error. Eos animi laudantium ratione error recusandae est. Amet est nam cupiditate autem dolorum ratione ratione. Ab nemo dignissimos iusto dignissimos magnam.	I semestre	1	6	NULL
+1221	70	quae inventore non	Quisquam aut minima ipsum eaque. Ut doloribus et ut eum. Ut tempore vitae ullam earum. Quod quas et qui autem.	II semestre	1	3	NULL
+1223	70	non vitae qui	Enim et placeat vero velit. Omnis quia in exercitationem ipsam dolor rerum. Natus voluptatem omnis numquam alias delectus praesentium.	II semestre	1	7	NULL
+1224	70	eaque dolores est	Aut distinctio reprehenderit quam autem. Minima rem animi qui qui. Ad itaque numquam amet facilis.	I semestre	2	13	NULL
+1225	70	reiciendis occaecati iure	Aperiam sequi sit aut. Fuga repellat fuga rerum dolores asperiores sapiente dolores. Ea vel optio cumque dolor ea. Similique qui dignissimos reiciendis assumenda enim.	I semestre	2	7	NULL
+1226	70	aut qui consequatur	Quibusdam ipsa expedita repellendus excepturi eum eum molestias quam. Deserunt voluptatem accusantium eos. Ea quo saepe temporibus repellat.	I semestre	2	7	NULL
+1227	70	dolores quasi officia	Delectus consequatur a et autem quis error. Eveniet officiis ducimus repellat autem. Est dolorem molestiae eaque iure impedit quidem.	I semestre	2	7	NULL
+1228	70	eius eum itaque	Quis inventore velit nemo quasi voluptas ullam. Aut neque quasi ut repellendus dolores molestias et. Quasi necessitatibus adipisci rerum voluptate non eum.	I semestre	2	12	NULL
+1232	70	et dignissimos labore	Quidem rerum odit quo sunt ipsum aut. Minima veniam dolores velit quia excepturi nulla consequatur. Eos inventore iste quisquam recusandae in. Repellat laboriosam quidem nesciunt.	II semestre	2	5	NULL
+1233	70	recusandae inventore nostrum	Consectetur itaque ducimus nam blanditiis in rem cumque alias. Quis rerum nostrum dolorum quo. Magni molestias culpa iusto. Consequatur iste voluptas omnis.	I semestre	3	3	NULL
+1234	70	nihil consectetur ex	Accusamus nesciunt iusto fugit dolores quaerat. Rerum neque atque placeat. Ab vero adipisci quia asperiores et rem quam.	I semestre	3	12	NULL
+1235	70	ut earum eum	Sint ipsa vero unde minus delectus ut. Cum et sed aut.	I semestre	3	7	NULL
+1236	70	numquam fugiat sed	Doloribus quas est perferendis qui. Fugiat nihil cupiditate aspernatur voluptates. Et aut velit minima sequi labore et ea similique.	I semestre	3	3	NULL
+1237	70	nisi consequatur in	Neque iste quidem iusto iusto unde itaque. Voluptas voluptas accusamus quos quae. Asperiores ut eveniet et est. Dolore voluptas quaerat dignissimos numquam.	I semestre	3	4	NULL
+1241	70	sequi reiciendis explicabo	Maiores dolor aut cupiditate culpa hic aperiam. Velit et asperiores quae eius. Sed officia sit consequatur.	II semestre	3	8	NULL
+1242	71	dolor error porro	Non harum aut odio quae. Et eos reprehenderit fuga consequatur sunt dolores veritatis et. Eos molestias eius ut eos error ad aut.	I semestre	1	9	NULL
+1243	71	earum repellat et	Ex voluptatibus repellendus et accusantium consequatur. Aut est quo quae dolorem pariatur voluptates. Possimus rem totam vitae unde aut totam.	I semestre	1	8	NULL
+1246	71	qui soluta maxime	Est esse praesentium magnam mollitia ex ad. Quam nostrum ipsam ex. Quos voluptatum ut ut consectetur voluptate nam molestias.	II semestre	1	8	NULL
+1247	71	dolorum earum ipsum	Alias sit impedit labore quo est quia doloremque. Doloremque modi consequatur inventore voluptatem. Nulla ipsam placeat eaque ipsam. Qui dolorem necessitatibus assumenda.	II semestre	1	9	NULL
+1248	71	aut dolorum distinctio	Aut fuga quae aut placeat in est. Sapiente alias cum fugit odio eum. Officiis debitis quae cumque. Cumque quam inventore atque dolores dolorem.	II semestre	1	14	NULL
+1249	71	quis molestias veniam	Soluta voluptates nesciunt ut cumque. Sunt modi et quis minima vitae et vero et.	I semestre	2	9	NULL
+1250	71	quo eos quod	Natus voluptatem sapiente accusamus et vero expedita. Ratione magni debitis repellendus occaecati et occaecati. Architecto eum quia enim.	I semestre	2	4	NULL
+1251	71	fugit distinctio quibusdam	Atque quidem consectetur fugiat aut distinctio recusandae. Repudiandae voluptatibus est voluptas. Quidem voluptatem neque iusto optio in id ab. Architecto id porro autem quod.	I semestre	2	14	NULL
+1253	71	porro est eum	Omnis aut quidem quod voluptas et laboriosam. Voluptatum facere quisquam ipsa illum aliquam. Eos eius non voluptates. Inventore et voluptate quia alias consequatur.	I semestre	2	5	NULL
+1254	71	et possimus occaecati	Qui atque voluptatem ad. Distinctio maxime et eveniet qui suscipit provident. Porro dicta et et consectetur debitis.	II semestre	2	6	NULL
+1260	72	rerum molestiae provident	Nesciunt adipisci voluptas soluta voluptas. Ut quis sequi et. Fuga voluptas corrupti necessitatibus nostrum. Atque incidunt id beatae.	I semestre	1	8	NULL
+1262	72	autem aspernatur quisquam	Est suscipit qui expedita reiciendis eum quo nostrum. Aut sunt expedita sapiente qui omnis impedit.	II semestre	1	10	NULL
+1267	72	doloribus debitis eveniet	Voluptas dolor quia in. Optio officia ipsa sed accusantium adipisci minus quas quibusdam. Quae dolores ea similique error delectus. Et reprehenderit voluptatum earum sapiente dolorem iste.	I semestre	2	11	NULL
+1268	72	id non autem	Quod laudantium explicabo nihil dignissimos nam. Commodi ipsum quam incidunt quisquam eveniet adipisci dolor dolorem. Esse magni cumque autem delectus odit voluptatem aut.	I semestre	2	9	NULL
+1272	72	dolorem quis explicabo	Earum quia recusandae impedit delectus aut ratione odit assumenda. Veritatis corrupti magni ut vel. Laborum eius ipsum incidunt cupiditate animi sit iure quasi.	II semestre	2	4	NULL
+1273	73	porro cupiditate qui	Eaque voluptates voluptatibus possimus magnam omnis eos. Illum quam dolorem vel reiciendis suscipit deleniti sunt. Voluptatibus quis sed asperiores ex in fugit. Dolor ut voluptas quia.	I semestre	1	3	NULL
+1274	73	adipisci ut quis	Et voluptas maxime reprehenderit eius consequatur at. Corporis saepe recusandae temporibus. Maiores amet quaerat ab dolore nesciunt perspiciatis. Quaerat quia aut laudantium nostrum nihil alias.	I semestre	1	12	NULL
+1275	73	quidem vero eaque	Sed ut culpa repellendus consequuntur. Et eligendi est magnam vel rerum at temporibus. Iure et et iste.	I semestre	1	7	NULL
+1278	73	unde at voluptas	Velit ullam optio aliquam. Error rem itaque dicta provident. Molestias et aperiam quisquam libero. Et explicabo adipisci ullam.	II semestre	1	11	NULL
+1279	73	voluptatem hic omnis	Sunt eligendi similique ut sunt tenetur dolorum et. Exercitationem voluptatem numquam cumque asperiores quia. Non ducimus officia dignissimos blanditiis voluptatem.	II semestre	1	7	NULL
+1280	73	exercitationem ea omnis	Quisquam voluptates deserunt architecto necessitatibus. Amet eum sint eum culpa in. Illum earum pariatur aut commodi ut error optio iste.	II semestre	1	14	NULL
+1281	73	ut et quod	Placeat ipsam delectus ipsum maxime veritatis est rerum. Labore reprehenderit blanditiis saepe rerum repellendus.	I semestre	2	7	NULL
+1282	73	accusantium tempora vel	Quos amet non et molestias quasi. Hic nam voluptatem et deserunt ea et possimus. Harum ab commodi laudantium eaque adipisci quae molestias.	I semestre	2	11	NULL
+1283	73	nisi suscipit impedit	Perferendis laborum laboriosam sed est qui eum natus possimus. Corporis repellat rerum quae fuga facilis nisi.	I semestre	2	4	NULL
+1285	73	qui sapiente voluptatem	Recusandae voluptatem quasi et necessitatibus quia in. Natus et sed reiciendis omnis ab alias. Et est ea aspernatur iure qui delectus alias. Ipsa libero magnam quia recusandae.	II semestre	2	14	NULL
+1289	74	quia non rerum	Aut dicta perferendis veniam cum quia quis. Dolorem dolor repellat quo quam enim dolores. Eveniet accusantium adipisci aliquid quis quo. Neque voluptatem ipsa iusto voluptas at veritatis.	I semestre	1	15	NULL
+1290	74	reiciendis dolorum labore	Quo est exercitationem dolorem id. Voluptatem harum deserunt adipisci sit dolorum. Harum impedit neque officiis in. Rem dolor harum a nesciunt. Eligendi ipsam aut ea corporis.	I semestre	1	13	NULL
+1291	74	laboriosam aperiam ut	Neque vero temporibus sunt beatae consequatur. Consequatur quam ut rerum dolorem repellendus iste. Quasi magnam tempora nisi error omnis. Et explicabo iure eum reiciendis quos amet.	II semestre	1	12	NULL
+1293	74	et fugit occaecati	Qui dolorem quidem doloribus nihil saepe ipsam. Iusto nemo non delectus. Eius laboriosam sed officiis ab incidunt pariatur. Fuga nisi ut et incidunt dicta optio.	II semestre	1	15	NULL
+1296	74	facilis ut est	Ea cum eum enim minus quia deserunt quasi ab. Totam esse voluptatem voluptas impedit. Eveniet recusandae repellendus harum aut tempore. Sed corporis deserunt repellendus voluptatum quis.	I semestre	2	5	NULL
+1299	74	rerum in sed	Natus possimus aut rerum dignissimos aut. Praesentium deleniti sint sapiente consequatur voluptas dicta.	II semestre	2	7	NULL
+1300	74	molestiae distinctio quis	Quisquam voluptas nemo sit iure. Consequatur labore dolorem quod quisquam quo rem. Fugit et tempora sapiente corporis sit aliquid.	II semestre	2	14	NULL
+1303	75	quaerat in qui	Unde laboriosam deserunt fugit dolor. Eos fuga expedita vel eum quo.	I semestre	1	11	NULL
+1304	75	minus expedita et	Sapiente ratione consequuntur enim sed. Nemo doloribus quos architecto minus adipisci. Et sit aspernatur vel dolores.	I semestre	1	12	NULL
+1305	75	consectetur aut est	Tempore ut ut maiores temporibus. Quos molestiae expedita vitae ea veritatis et. Quis possimus mollitia ut. Voluptatem nam laborum et sint rem officia qui.	I semestre	1	14	NULL
+1306	75	distinctio rem quis	Repellat provident laboriosam consectetur et quo mollitia. Mollitia aut sed rem ut. Consequatur vitae voluptatem quos quaerat iste illo.	I semestre	1	3	NULL
+1310	75	quis ipsa non	Reprehenderit excepturi est veritatis ratione vero vitae officia. Similique quo nihil dolores quas omnis aut. Qui est est magnam labore at.	II semestre	1	4	NULL
+1311	75	ad deserunt adipisci	Deserunt pariatur quis libero nihil quos. Voluptatem non hic nesciunt voluptas neque velit. Sint quidem a sint vero et ut laudantium.	II semestre	1	4	NULL
+1313	75	qui vitae molestias	Vero quisquam corrupti nesciunt veniam molestias sint nobis officia. Ea dolore perspiciatis id.	I semestre	2	14	NULL
+1315	75	et aut iste	Sed natus natus maxime itaque. Nihil veritatis ducimus consequatur mollitia suscipit natus cumque. Assumenda rerum qui non nihil nihil.	II semestre	2	10	NULL
+1316	75	occaecati quo laboriosam	Ipsam aspernatur odit a quo nihil possimus. Voluptatem illum iste nisi numquam. Enim quam in esse molestiae minima nobis explicabo. Earum excepturi repudiandae vel.	II semestre	2	5	NULL

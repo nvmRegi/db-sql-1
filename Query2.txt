@@ -1,0 +1,14 @@
+--SELECT head_of_department FROM departments;
+
+Gilda Romano
+Dott. Deborah De Santis
+Olimpia D'amico
+Ing. Marzio Gatti
+Sig. Alessandro Orlando
+Lisa Farina
+Dante Lombardi
+Jole Benedetti
+Selvaggia De Angelis
+Bernardo Sanna
+Lauro Barone
+Dott. Ludovico Marino

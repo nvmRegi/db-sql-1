@@ -1,3 +1,5 @@
+SELEZIONO TUTTI GLI INSEGNANTI
+
 --SELECT * FROM teachers;
 
 1	Artemide	Rizzi	+87 81 28355927	jarno26@bianchi.it	Contrada Penelope 73	161

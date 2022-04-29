@@ -1,3 +1,5 @@
+SELEZIONO TUTTI I CAPIDI OGNI DIPARTIMENTO
+
 --SELECT head_of_department FROM departments;
 
 Gilda Romano

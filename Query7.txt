@@ -1,5 +1,5 @@
 SELEZIONO TUTTI I CORSI DEL PRIMO SEMESTRE DEL PRIMO ANNO DI QUALSIASI CORSO DI LAUREA
---
+--SELECT * FROM courses WHERE period = 'I semestre' AND year = 1;
 
 1	1	provident aut non	Et dolorem optio nostrum quam. Nesciunt eos non molestiae deleniti. Earum amet nam minus porro aut corrupti.	I semestre	1	11	www.minima.uni.it
 2	1	et doloremque omnis	Itaque quos aut repellat et amet et. Ipsum itaque laboriosam est earum unde id ea facilis. Eos placeat adipisci ipsam et. Ut ipsa ducimus sit sed ut provident facilis.	I semestre	1	4	NULL
